@@ -1,0 +1,94 @@
+{
+  "languages": {
+    "bn": {
+      "language": "Bengali",
+      "original": "বাংলা",
+      "code": "bn"
+    },
+    "de": {
+      "language": "German",
+      "original": "Deutsch",
+      "code": "de"
+    },
+    "dv": {
+      "language": "Divehi",
+      "original": "ދިވެހި",
+      "code": "dv"
+    },
+    "en": {
+      "language": "English",
+      "original": "English",
+      "code": "en"
+    },
+    "en_trans": {
+      "language": "English Transliteration",
+      "original": "bis'mi",
+      "code": "en_trans"
+    },
+    "fa": {
+      "language": "Persian",
+      "original": "فارسی",
+      "code": "fa"
+    },
+    "fr": {
+      "language": "French",
+      "original": "Français",
+      "code": "fr"
+    },
+    "hi": {
+      "language": "Hindi",
+      "original": "हिन्दी",
+      "code": "hi"
+    },
+    "in": {
+      "language": "Indonesian",
+      "original": "Bahasa Indonesia",
+      "code": "in"
+    },
+    "inh": {
+      "language": "Ingush",
+      "original": "Нохчийн",
+      "code": "inh"
+    },
+    "ml": {
+      "language": "Malayalam",
+      "original": "മലയാളം",
+      "code": "ml"
+    },
+    "ru": {
+      "language": "Russian",
+      "original": "Русский",
+      "code": "ru"
+    },
+    "sd": {
+      "language": "Sindhi",
+      "original": "سنڌي",
+      "code": "sd"
+    },
+    "sq": {
+      "language": "Albanian",
+      "original": "Shqip",
+      "code": "sq"
+    },
+    "ta": {
+      "language": "Tamil",
+      "original": "தமிழ்",
+      "code": "ta"
+    },
+    "tr": {
+      "language": "Turkish",
+      "original": "Türkçe",
+      "code": "tr"
+    },
+    "ur": {
+      "language": "Urdu",
+      "original": "اردو",
+      "code": "ur"
+    },
+    "zh": {
+      "language": "Chinese",
+      "original": "中文",
+      "code": "zh"
+    }
+  }
+}
