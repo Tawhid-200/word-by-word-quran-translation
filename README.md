@@ -51,19 +51,36 @@ Example: Surah 1 (Al-Fatiha) in **English (`en`)**
 
 ```json
 [
-  "In the name of Allah,",
-  "the Entirely Merciful,",
-  "the Especially Merciful.",
-  "All praise is [due] to Allah,",
-  "Lord of the worlds –",
-  "The Entirely Merciful,",
-  "the Especially Merciful,",
-  "Sovereign of the Day of Recompense.",
-  "It is You we worship and You we ask for help.",
-  "Guide us to the straight path –",
-  "The path of those upon whom You have bestowed favor,",
-  "not of those who have evoked [Your] anger or of those who are astray."
-] 
+  "In (the) name",
+  "(of) Allah",
+  "the Most Gracious",
+  "the Most Merciful",
+  "All praises and thanks",
+  "(be) to Allah",
+  "(the) Lord",
+  "(of all) the worlds",
+  "The Most Gracious",
+  "the Most Merciful",
+  "Master",
+  "(of the) Day",
+  "(of) [the] Judgment",
+  "You Alone",
+  "we worship",
+  "and You Alone",
+  "we ask for help",
+  "Guide us",
+  "(to) the path",
+  "the straight",
+  "(The) path",
+  "(of) those",
+  "You have bestowed (Your) Favors",
+  "on them",
+  "not (of)",
+  "those who earned (Your) wrath",
+  "on themselves",
+  "and not",
+  "(of) those who go astray"
+]
 ```
 ## ⚡ Usage Examples
 ### JavaScript (Browser / Node.js)
