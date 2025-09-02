@@ -12,17 +12,17 @@ A **free, open, static API** for accessing the Quran word-by-word in **18 langua
 ## 📂 API Endpoints
 
 ### 1. Surah in a Specific Language
-https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/{surah_number}/language/{lang}.json
+https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation@latest/api/surah/{surah_number}/language/{lang}.json
 
 
 - `{surah_number}` → `1` to `114`  
 - `{lang}` → one of the 18 language codes above  
 
 ✅ Example: Surah 1 (Al-Fatiha) in **Bengali**  
-👉 [Click here](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/1/language/bn.json)
+👉 [Click here](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation@latest/api/surah/1/language/bn.json)
 
 ✅ Example: Surah 1 (Al-Fatiha) in **English**  
-👉 [Click here](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/1/language/en.json)
+👉 [Click here](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation@latest/api/surah/1/language/en.json)
 
 ---
 
@@ -30,7 +30,7 @@ https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/
 
 Check the full list of available languages here:
 
-👉 [languages.json](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/languages.json)
+👉 [languages.json](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation@latest/api/surah/languages.json)
 
 Example (`languages.json`):
 ```
@@ -50,37 +50,51 @@ bn, de, dv, en, en_trans, fa, fr, hi, in, inh, ml, ru, sd, sq, ta, tr, ur, zh
 Example: Surah 1 (Al-Fatiha) in **English (`en`)**
 
 ```json
-[
-  "In (the) name",
-  "(of) Allah",
-  "the Most Gracious",
-  "the Most Merciful",
-  "All praises and thanks",
-  "(be) to Allah",
-  "(the) Lord",
-  "(of all) the worlds",
-  "The Most Gracious",
-  "the Most Merciful",
-  "Master",
-  "(of the) Day",
-  "(of) [the] Judgment",
-  "You Alone",
-  "we worship",
-  "and You Alone",
-  "we ask for help",
-  "Guide us",
-  "(to) the path",
-  "the straight",
-  "(The) path",
-  "(of) those",
-  "You have bestowed (Your) Favors",
-  "on them",
-  "not (of)",
-  "those who earned (Your) wrath",
-  "on themselves",
-  "and not",
-  "(of) those who go astray"
-]
+{
+  "1": [
+    "In (the) name",
+    "(of) Allah",
+    "the Most Gracious",
+    "the Most Merciful"
+  ],
+  "2": [
+    "All praises and thanks",
+    "(be) to Allah",
+    "(the) Lord",
+    "(of all) the worlds"
+  ],
+  "3": [
+    "The Most Gracious",
+    "the Most Merciful"
+  ],
+  "4": [
+    "Master",
+    "(of the) Day",
+    "(of) [the] Judgment"
+  ],
+  "5": [
+    "You Alone",
+    "we worship",
+    "and You Alone",
+    "we ask for help"
+  ],
+  "6": [
+    "Guide us",
+    "(to) the path",
+    "the straight"
+  ],
+  "7": [
+    "(The) path",
+    "(of) those",
+    "You have bestowed (Your) Favors",
+    "on them",
+    "not (of)",
+    "those who earned (Your) wrath",
+    "on themselves",
+    "and not",
+    "(of) those who go astray"
+  ]
+}
 ```
 ## ⚡ Usage Examples
 ### JavaScript (Browser / Node.js)
