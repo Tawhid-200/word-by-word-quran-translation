@@ -33,14 +33,15 @@ Check the full list of available languages here:
 👉 [languages.json](https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/languages.json)
 
 Example (`languages.json`):
-
+```
 {
   "bn": { "language": "Bengali", "original": "বাংলা", "code": "bn" },
   "de": { "language": "German", "original": "Deutsch", "code": "de" },
   "en": { "language": "English", "original": "English", "code": "en" },
 }
+```
 
-## Currently supported:
+### Currently supported:
 bn, de, dv, en, en_trans, fa, fr, hi, in, inh, ml, ru, sd, sq, ta, tr, ur, zh
 
 ---
@@ -67,6 +68,7 @@ Example: Surah 1 (Al-Fatiha) in **English (`en`)**
 ## ⚡ Usage Examples
 ### JavaScript (Browser / Node.js)
 
+```
 // Fetch Surah 1 (Al-Fatiha) in Bengali
 async function getSurah(surah, lang) {
   const url = `https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/${surah}/language/${lang}.json`;
@@ -74,6 +76,7 @@ async function getSurah(surah, lang) {
   const data = await res.json();
   console.log(data);
 }
+```
 
 getSurah(1, "bn");
 
