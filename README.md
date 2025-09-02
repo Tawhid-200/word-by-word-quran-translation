@@ -70,15 +70,15 @@ Example: Surah 1 (Al-Fatiha) in **English (`en`)**
 
 ```
 // Fetch Surah 1 (Al-Fatiha) in Bengali
+
 async function getSurah(surah, lang) {
   const url = `https://cdn.jsdelivr.net/gh/Tawhid-200/word-by-word-quran-translation/api/surah/${surah}/language/${lang}.json`;
   const res = await fetch(url);
   const data = await res.json();
   console.log(data);
 }
-```
-
 getSurah(1, "bn");
+```
 
 ## 🚀 Features
 
