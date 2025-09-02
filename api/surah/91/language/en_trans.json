@@ -1,56 +1,86 @@
-[
-  "wal-shamsi",
-  "waḍuḥāhā",
-  "wal-qamari",
-  "idhā",
-  "talāhā",
-  "wal-nahāri",
-  "idhā",
-  "jallāhā",
-  "wa-al-layli",
-  "idhā",
-  "yaghshāhā",
-  "wal-samāi",
-  "wamā",
-  "banāhā",
-  "wal-arḍi",
-  "wamā",
-  "ṭaḥāhā",
-  "wanafsin",
-  "wamā",
-  "sawwāhā",
-  "fa-alhamahā",
-  "fujūrahā",
-  "wataqwāhā",
-  "qad",
-  "aflaḥa",
-  "man",
-  "zakkāhā",
-  "waqad",
-  "khāba",
-  "man",
-  "dassāhā",
-  "kadhabat",
-  "thamūdu",
-  "biṭaghwāhā",
-  "idhi",
-  "inbaʿatha",
-  "ashqāhā",
-  "faqāla",
-  "lahum",
-  "rasūlu",
-  "l-lahi",
-  "nāqata",
-  "l-lahi",
-  "wasuq'yāhā",
-  "fakadhabūhu",
-  "faʿaqarūhā",
-  "fadamdama",
-  "ʿalayhim",
-  "rabbuhum",
-  "bidhanbihim",
-  "fasawwāhā",
-  "walā",
-  "yakhāfu",
-  "ʿuq'bāhā"
-]
+{
+  "1": [
+    "wal-shamsi",
+    "waḍuḥāhā"
+  ],
+  "2": [
+    "wal-qamari",
+    "idhā",
+    "talāhā"
+  ],
+  "3": [
+    "wal-nahāri",
+    "idhā",
+    "jallāhā"
+  ],
+  "4": [
+    "wa-al-layli",
+    "idhā",
+    "yaghshāhā"
+  ],
+  "5": [
+    "wal-samāi",
+    "wamā",
+    "banāhā"
+  ],
+  "6": [
+    "wal-arḍi",
+    "wamā",
+    "ṭaḥāhā"
+  ],
+  "7": [
+    "wanafsin",
+    "wamā",
+    "sawwāhā"
+  ],
+  "8": [
+    "fa-alhamahā",
+    "fujūrahā",
+    "wataqwāhā"
+  ],
+  "9": [
+    "qad",
+    "aflaḥa",
+    "man",
+    "zakkāhā"
+  ],
+  "10": [
+    "waqad",
+    "khāba",
+    "man",
+    "dassāhā"
+  ],
+  "11": [
+    "kadhabat",
+    "thamūdu",
+    "biṭaghwāhā"
+  ],
+  "12": [
+    "idhi",
+    "inbaʿatha",
+    "ashqāhā"
+  ],
+  "13": [
+    "faqāla",
+    "lahum",
+    "rasūlu",
+    "l-lahi",
+    "nāqata",
+    "l-lahi",
+    "wasuq'yāhā"
+  ],
+  "14": [
+    "fakadhabūhu",
+    "faʿaqarūhā",
+    "fadamdama",
+    "ʿalayhim",
+    "rabbuhum",
+    "bidhanbihim",
+    "fasawwāhā"
+  ],
+  "15": [
+    "walā",
+    "yakhāfu",
+    "ʿuq'bāhā"
+  ]
+}

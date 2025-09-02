@@ -1,25 +1,35 @@
-[
-  "görmedin mi?",
-  "*",
-  "nasıl",
-  "yaptığını",
-  "Rabbinin",
-  "sahiplerine",
-  "fil",
-  "çıkarmadı mı?",
-  "*",
-  "onların tuzaklarını",
-  "boşa",
-  "*",
-  "ve gönderdi",
-  "üzerlerine",
-  "kuşlar",
-  "sürü sürü",
-  "onlara atıyorlardı",
-  "sertleşmiş taşlar",
-  "çamurdan",
-  "*",
-  "nihayet onları yaptı",
-  "ekin yaprağı gibi",
-  "yenmiş"
-]
+{
+  "1": [
+    "görmedin mi?",
+    "*",
+    "nasıl",
+    "yaptığını",
+    "Rabbinin",
+    "sahiplerine",
+    "fil"
+  ],
+  "2": [
+    "çıkarmadı mı?",
+    "*",
+    "onların tuzaklarını",
+    "boşa",
+    "*"
+  ],
+  "3": [
+    "ve gönderdi",
+    "üzerlerine",
+    "kuşlar",
+    "sürü sürü"
+  ],
+  "4": [
+    "onlara atıyorlardı",
+    "sertleşmiş taşlar",
+    "çamurdan",
+    "*"
+  ],
+  "5": [
+    "nihayet onları yaptı",
+    "ekin yaprağı gibi",
+    "yenmiş"
+  ]
+}

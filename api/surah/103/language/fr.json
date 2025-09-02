@@ -1,16 +1,22 @@
-[
-  "Par le temps !",
-  "Certes,",
-  "l’humain (est)",
-  "certainement dans",
-  "de la perte,",
-  "sauf",
-  "ceux qui",
-  "ont accepté la foi",
-  "et ont fait",
-  "les actions vertueuses",
-  "et ont recommandé à l’un l’autre",
-  "[vers] la vérité",
-  "et ont recommandé à l’un l’autre",
-  "[vers] l’endurance."
-]
+{
+  "1": [
+    "Par le temps !"
+  ],
+  "2": [
+    "Certes,",
+    "l’humain (est)",
+    "certainement dans",
+    "de la perte,"
+  ],
+  "3": [
+    "sauf",
+    "ceux qui",
+    "ont accepté la foi",
+    "et ont fait",
+    "les actions vertueuses",
+    "et ont recommandé à l’un l’autre",
+    "[vers] la vérité",
+    "et ont recommandé à l’un l’autre",
+    "[vers] l’endurance."
+  ]
+}

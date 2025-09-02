@@ -1,74 +1,112 @@
-[
-  "Lies",
-  "im Namen",
-  "deines Herrn",
-  "Der",
-  "erschaffen hat",
-  "Er hat erschaffen",
-  "den Menschen",
-  "aus",
-  "einem Anhängsel",
-  "Lies",
-  "und dein Herr",
-  "(ist) der Edelste",
-  "Der",
-  "gelehrt hat",
-  "(das Schreiben) mit dem Schreibrohr",
-  "gelehrt hat",
-  "den Menschen",
-  "was",
-  "nicht",
-  "er wusste",
-  "Keineswegs!",
-  "Wahrlich",
-  "der Mensch",
-  "lehnt sich auf",
-  "dass",
-  "er von sich meint",
-  "unbedürftig zu sein",
-  "Gewiss",
-  "zu",
-  "deinem Herrn",
-  "(wird) die Rückkehr (sein)",
-  "Siehst du",
-  "denjenigen, der",
-  "abhält",
-  "einen Diener",
-  "wenn",
-  "er betet",
-  "Hast du gesehen",
-  "ob",
-  "er ist",
-  "auf",
-  "dem rechten Weg",
-  "oder",
-  "gebietet",
-  "die Gottesfurcht",
-  "Siehst du",
-  "ob",
-  "er für Lüge erklärt",
-  "und sich abkehrt",
-  "Weiß er nicht",
-  "*",
-  "dass",
-  "Allah",
-  "sieht",
-  "Keineswegs!",
-  "Wenn",
-  "nicht",
-  "er aufhört",
-  "gewiss werden wir ihn packen",
-  "an der Stirnlocke",
-  "einer Stirnlocke",
-  "einer lügnerischen",
-  "einer verfehlt handelnden",
-  "So soll er rufen",
-  "seine Genossen",
-  "Wir werden rufen",
-  "die (Höllen)wache",
-  "Keineswegs!",
-  "Nicht",
-  "gehorche ihm",
-  "sondern wirf dich nieder",
-  "und sei (Allah) nah"
-]
+{
+  "1": [
+    "Lies",
+    "im Namen",
+    "deines Herrn",
+    "Der",
+    "erschaffen hat"
+  ],
+  "2": [
+    "Er hat erschaffen",
+    "den Menschen",
+    "aus",
+    "einem Anhängsel"
+  ],
+  "3": [
+    "Lies",
+    "und dein Herr",
+    "(ist) der Edelste"
+  ],
+  "4": [
+    "Der",
+    "gelehrt hat",
+    "(das Schreiben) mit dem Schreibrohr"
+  ],
+  "5": [
+    "gelehrt hat",
+    "den Menschen",
+    "was",
+    "nicht",
+    "er wusste"
+  ],
+  "6": [
+    "Keineswegs!",
+    "Wahrlich",
+    "der Mensch",
+    "lehnt sich auf"
+  ],
+  "7": [
+    "dass",
+    "er von sich meint",
+    "unbedürftig zu sein"
+  ],
+  "8": [
+    "Gewiss",
+    "zu",
+    "deinem Herrn",
+    "(wird) die Rückkehr (sein)"
+  ],
+  "9": [
+    "Siehst du",
+    "denjenigen, der",
+    "abhält"
+  ],
+  "10": [
+    "einen Diener",
+    "wenn",
+    "er betet"
+  ],
+  "11": [
+    "Hast du gesehen",
+    "ob",
+    "er ist",
+    "auf",
+    "dem rechten Weg"
+  ],
+  "12": [
+    "oder",
+    "gebietet",
+    "die Gottesfurcht"
+  ],
+  "13": [
+    "Siehst du",
+    "ob",
+    "er für Lüge erklärt",
+    "und sich abkehrt"
+  ],
+  "14": [
+    "Weiß er nicht",
+    "*",
+    "dass",
+    "Allah",
+    "sieht"
+  ],
+  "15": [
+    "Keineswegs!",
+    "Wenn",
+    "nicht",
+    "er aufhört",
+    "gewiss werden wir ihn packen",
+    "an der Stirnlocke"
+  ],
+  "16": [
+    "einer Stirnlocke",
+    "einer lügnerischen",
+    "einer verfehlt handelnden"
+  ],
+  "17": [
+    "So soll er rufen",
+    "seine Genossen"
+  ],
+  "18": [
+    "Wir werden rufen",
+    "die (Höllen)wache"
+  ],
+  "19": [
+    "Keineswegs!",
+    "Nicht",
+    "gehorche ihm",
+    "sondern wirf dich nieder",
+    "und sei (Allah) nah"
+  ]
+}

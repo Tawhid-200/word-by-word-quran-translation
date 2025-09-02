@@ -1,74 +1,112 @@
-[
-  "Récite",
-  "avec (Le) Nom",
-  "(de) ton Maître",
-  "qui",
-  "a créé,",
-  "a créé",
-  "l’humain",
-  "d’",
-  "une goutte de sang/une sangsue !",
-  "Récite !",
-  "Et ton Maître",
-  "(est) Le Plus Généreux,",
-  "Celui qui",
-  "a enseigné",
-  "avec le calame (=ancien stylo),",
-  "a enseigné",
-  "l’humain",
-  "ce que",
-  "ne pas",
-  "il a su.",
-  "Non, pas du tout !",
-  "Certes,",
-  "l’humain",
-  "dépasse certainement les limites",
-  "(parce) qu’",
-  "il se voit",
-  "libre de besoins.",
-  "Certes,",
-  "vers",
-  "ton Maître",
-  "(est) le retour.",
-  "Est-ce que tu as vu",
-  "celui qui",
-  "interdit",
-  "(à) un esclave",
-  "quand",
-  "il prie ?",
-  "Est-ce que tu as vu",
-  "s’",
-  "il est",
-  "sur",
-  "la guidance ?",
-  "Ou",
-  "ordonne",
-  "de (pratiquer) la piété ?",
-  "Est-ce que tu as vu",
-  "s’",
-  "il dément",
-  "et se détourne ?",
-  "Est-ce que ne pas",
-  "il a su",
-  "[à] qu’",
-  "Allâh",
-  "voit ?",
-  "Non, pas du tout !",
-  "Certainement si",
-  "ne pas",
-  "il arrête,",
-  "Nous (le) saisirons certainement",
-  "par le toupet,",
-  "un toupet",
-  "menteur,",
-  "qui fait erreur.",
-  "Qu’il appelle donc",
-  "son assemblée,",
-  "Nous appellerons très bientôt",
-  "les anges-gendarmes.",
-  "Non, pas du tout !",
-  "Ne",
-  "lui obéis (pas)",
-  "mais prosterne-toi",
-  "et approche-toi."
-]
+{
+  "1": [
+    "Récite",
+    "avec (Le) Nom",
+    "(de) ton Maître",
+    "qui",
+    "a créé,"
+  ],
+  "2": [
+    "a créé",
+    "l’humain",
+    "d’",
+    "une goutte de sang/une sangsue !"
+  ],
+  "3": [
+    "Récite !",
+    "Et ton Maître",
+    "(est) Le Plus Généreux,"
+  ],
+  "4": [
+    "Celui qui",
+    "a enseigné",
+    "avec le calame (=ancien stylo),"
+  ],
+  "5": [
+    "a enseigné",
+    "l’humain",
+    "ce que",
+    "ne pas",
+    "il a su."
+  ],
+  "6": [
+    "Non, pas du tout !",
+    "Certes,",
+    "l’humain",
+    "dépasse certainement les limites"
+  ],
+  "7": [
+    "(parce) qu’",
+    "il se voit",
+    "libre de besoins."
+  ],
+  "8": [
+    "Certes,",
+    "vers",
+    "ton Maître",
+    "(est) le retour."
+  ],
+  "9": [
+    "Est-ce que tu as vu",
+    "celui qui",
+    "interdit"
+  ],
+  "10": [
+    "(à) un esclave",
+    "quand",
+    "il prie ?"
+  ],
+  "11": [
+    "Est-ce que tu as vu",
+    "s’",
+    "il est",
+    "sur",
+    "la guidance ?"
+  ],
+  "12": [
+    "Ou",
+    "ordonne",
+    "de (pratiquer) la piété ?"
+  ],
+  "13": [
+    "Est-ce que tu as vu",
+    "s’",
+    "il dément",
+    "et se détourne ?"
+  ],
+  "14": [
+    "Est-ce que ne pas",
+    "il a su",
+    "[à] qu’",
+    "Allâh",
+    "voit ?"
+  ],
+  "15": [
+    "Non, pas du tout !",
+    "Certainement si",
+    "ne pas",
+    "il arrête,",
+    "Nous (le) saisirons certainement",
+    "par le toupet,"
+  ],
+  "16": [
+    "un toupet",
+    "menteur,",
+    "qui fait erreur."
+  ],
+  "17": [
+    "Qu’il appelle donc",
+    "son assemblée,"
+  ],
+  "18": [
+    "Nous appellerons très bientôt",
+    "les anges-gendarmes."
+  ],
+  "19": [
+    "Non, pas du tout !",
+    "Ne",
+    "lui obéis (pas)",
+    "mais prosterne-toi",
+    "et approche-toi."
+  ]
+}

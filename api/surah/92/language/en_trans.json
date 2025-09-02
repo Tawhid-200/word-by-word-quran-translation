@@ -1,73 +1,115 @@
-[
-  "wa-al-layli",
-  "idhā",
-  "yaghshā",
-  "wal-nahāri",
-  "idhā",
-  "tajallā",
-  "wamā",
-  "khalaqa",
-  "l-dhakara",
-  "wal-unthā",
-  "inna",
-  "saʿyakum",
-  "lashattā",
-  "fa-ammā",
-  "man",
-  "aʿṭā",
-  "wa-ittaqā",
-  "waṣaddaqa",
-  "bil-ḥus'nā",
-  "fasanuyassiruhu",
-  "lil'yus'rā",
-  "wa-ammā",
-  "man",
-  "bakhila",
-  "wa-is'taghnā",
-  "wakadhaba",
-  "bil-ḥus'nā",
-  "fasanuyassiruhu",
-  "lil'ʿus'rā",
-  "wamā",
-  "yugh'nī",
-  "ʿanhu",
-  "māluhu",
-  "idhā",
-  "taraddā",
-  "inna",
-  "ʿalaynā",
-  "lalhudā",
-  "wa-inna",
-  "lanā",
-  "lalākhirata",
-  "wal-ūlā",
-  "fa-andhartukum",
-  "nāran",
-  "talaẓẓā",
-  "lā",
-  "yaṣlāhā",
-  "illā",
-  "l-ashqā",
-  "alladhī",
-  "kadhaba",
-  "watawallā",
-  "wasayujannabuhā",
-  "l-atqā",
-  "alladhī",
-  "yu'tī",
-  "mālahu",
-  "yatazakkā",
-  "wamā",
-  "li-aḥadin",
-  "ʿindahu",
-  "min",
-  "niʿ'matin",
-  "tuj'zā",
-  "illā",
-  "ib'tighāa",
-  "wajhi",
-  "rabbihi",
-  "l-aʿlā",
-  "walasawfa",
-  "yarḍā"
-]
+{
+  "1": [
+    "wa-al-layli",
+    "idhā",
+    "yaghshā"
+  ],
+  "2": [
+    "wal-nahāri",
+    "idhā",
+    "tajallā"
+  ],
+  "3": [
+    "wamā",
+    "khalaqa",
+    "l-dhakara",
+    "wal-unthā"
+  ],
+  "4": [
+    "inna",
+    "saʿyakum",
+    "lashattā"
+  ],
+  "5": [
+    "fa-ammā",
+    "man",
+    "aʿṭā",
+    "wa-ittaqā"
+  ],
+  "6": [
+    "waṣaddaqa",
+    "bil-ḥus'nā"
+  ],
+  "7": [
+    "fasanuyassiruhu",
+    "lil'yus'rā"
+  ],
+  "8": [
+    "wa-ammā",
+    "man",
+    "bakhila",
+    "wa-is'taghnā"
+  ],
+  "9": [
+    "wakadhaba",
+    "bil-ḥus'nā"
+  ],
+  "10": [
+    "fasanuyassiruhu",
+    "lil'ʿus'rā"
+  ],
+  "11": [
+    "wamā",
+    "yugh'nī",
+    "ʿanhu",
+    "māluhu",
+    "idhā",
+    "taraddā"
+  ],
+  "12": [
+    "inna",
+    "ʿalaynā",
+    "lalhudā"
+  ],
+  "13": [
+    "wa-inna",
+    "lanā",
+    "lalākhirata",
+    "wal-ūlā"
+  ],
+  "14": [
+    "fa-andhartukum",
+    "nāran",
+    "talaẓẓā"
+  ],
+  "15": [
+    "lā",
+    "yaṣlāhā",
+    "illā",
+    "l-ashqā"
+  ],
+  "16": [
+    "alladhī",
+    "kadhaba",
+    "watawallā"
+  ],
+  "17": [
+    "wasayujannabuhā",
+    "l-atqā"
+  ],
+  "18": [
+    "alladhī",
+    "yu'tī",
+    "mālahu",
+    "yatazakkā"
+  ],
+  "19": [
+    "wamā",
+    "li-aḥadin",
+    "ʿindahu",
+    "min",
+    "niʿ'matin",
+    "tuj'zā"
+  ],
+  "20": [
+    "illā",
+    "ib'tighāa",
+    "wajhi",
+    "rabbihi",
+    "l-aʿlā"
+  ],
+  "21": [
+    "walasawfa",
+    "yarḍā"
+  ]
+}

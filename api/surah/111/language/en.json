@@ -1,25 +1,35 @@
-[
-  "Perish",
-  "(the) hands",
-  "(of) Abu",
-  "Lahab",
-  "and perish he",
-  "Not",
-  "(will) avail",
-  "him",
-  "his wealth",
-  "and what",
-  "he earned",
-  "He will be burnt",
-  "(in) a Fire",
-  "of",
-  "Blazing Flames",
-  "And his wife",
-  "(the) carrier",
-  "(of) firewood",
-  "Around",
-  "her neck",
-  "(will be) a rope",
-  "of",
-  "palm-fiber"
-]
+{
+  "1": [
+    "Perish",
+    "(the) hands",
+    "(of) Abu",
+    "Lahab",
+    "and perish he"
+  ],
+  "2": [
+    "Not",
+    "(will) avail",
+    "him",
+    "his wealth",
+    "and what",
+    "he earned"
+  ],
+  "3": [
+    "He will be burnt",
+    "(in) a Fire",
+    "of",
+    "Blazing Flames"
+  ],
+  "4": [
+    "And his wife",
+    "(the) carrier",
+    "(of) firewood"
+  ],
+  "5": [
+    "Around",
+    "her neck",
+    "(will be) a rope",
+    "of",
+    "palm-fiber"
+  ]
+}

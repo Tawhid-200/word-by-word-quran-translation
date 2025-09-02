@@ -1,30 +1,46 @@
-[
-  "alhākumu",
-  "l-takāthuru",
-  "ḥattā",
-  "zur'tumu",
-  "l-maqābira",
-  "kallā",
-  "sawfa",
-  "taʿlamūna",
-  "thumma",
-  "kallā",
-  "sawfa",
-  "taʿlamūna",
-  "kallā",
-  "law",
-  "taʿlamūna",
-  "ʿil'ma",
-  "l-yaqīni",
-  "latarawunna",
-  "l-jaḥīma",
-  "thumma",
-  "latarawunnahā",
-  "ʿayna",
-  "l-yaqīni",
-  "thumma",
-  "latus'alunna",
-  "yawma-idhin",
-  "ʿani",
-  "l-naʿīmi"
-]
+{
+  "1": [
+    "alhākumu",
+    "l-takāthuru"
+  ],
+  "2": [
+    "ḥattā",
+    "zur'tumu",
+    "l-maqābira"
+  ],
+  "3": [
+    "kallā",
+    "sawfa",
+    "taʿlamūna"
+  ],
+  "4": [
+    "thumma",
+    "kallā",
+    "sawfa",
+    "taʿlamūna"
+  ],
+  "5": [
+    "kallā",
+    "law",
+    "taʿlamūna",
+    "ʿil'ma",
+    "l-yaqīni"
+  ],
+  "6": [
+    "latarawunna",
+    "l-jaḥīma"
+  ],
+  "7": [
+    "thumma",
+    "latarawunnahā",
+    "ʿayna",
+    "l-yaqīni"
+  ],
+  "8": [
+    "thumma",
+    "latus'alunna",
+    "yawma-idhin",
+    "ʿani",
+    "l-naʿīmi"
+  ]
+}

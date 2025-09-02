@@ -1,175 +1,255 @@
-[
-  "ʿamma",
-  "yatasāalūna",
-  "ʿani",
-  "l-naba-i",
-  "l-ʿaẓīmi",
-  "alladhī",
-  "hum",
-  "fīhi",
-  "mukh'talifūna",
-  "kallā",
-  "sayaʿlamūna",
-  "thumma",
-  "kallā",
-  "sayaʿlamūna",
-  "alam",
-  "najʿali",
-  "l-arḍa",
-  "mihādan",
-  "wal-jibāla",
-  "awtādan",
-  "wakhalaqnākum",
-  "azwājan",
-  "wajaʿalnā",
-  "nawmakum",
-  "subātan",
-  "wajaʿalnā",
-  "al-layla",
-  "libāsan",
-  "wajaʿalnā",
-  "l-nahāra",
-  "maʿāshan",
-  "wabanaynā",
-  "fawqakum",
-  "sabʿan",
-  "shidādan",
-  "wajaʿalnā",
-  "sirājan",
-  "wahhājan",
-  "wa-anzalnā",
-  "mina",
-  "l-muʿ'ṣirāti",
-  "māan",
-  "thajjājan",
-  "linukh'rija",
-  "bihi",
-  "ḥabban",
-  "wanabātan",
-  "wajannātin",
-  "alfāfan",
-  "inna",
-  "yawma",
-  "l-faṣli",
-  "kāna",
-  "mīqātan",
-  "yawma",
-  "yunfakhu",
-  "fī",
-  "l-ṣūri",
-  "fatatūna",
-  "afwājan",
-  "wafutiḥati",
-  "l-samāu",
-  "fakānat",
-  "abwāban",
-  "wasuyyirati",
-  "l-jibālu",
-  "fakānat",
-  "sarāban",
-  "inna",
-  "jahannama",
-  "kānat",
-  "mir'ṣādan",
-  "lilṭṭāghīna",
-  "maāban",
-  "lābithīna",
-  "fīhā",
-  "aḥqāban",
-  "lā",
-  "yadhūqūna",
-  "fīhā",
-  "bardan",
-  "walā",
-  "sharāban",
-  "illā",
-  "ḥamīman",
-  "waghassāqan",
-  "jazāan",
-  "wifāqan",
-  "innahum",
-  "kānū",
-  "lā",
-  "yarjūna",
-  "ḥisāban",
-  "wakadhabū",
-  "biāyātinā",
-  "kidhāban",
-  "wakulla",
-  "shayin",
-  "aḥṣaynāhu",
-  "kitāban",
-  "fadhūqū",
-  "falan",
-  "nazīdakum",
-  "illā",
-  "ʿadhāban",
-  "inna",
-  "lil'muttaqīna",
-  "mafāzan",
-  "ḥadāiqa",
-  "wa-aʿnāban",
-  "wakawāʿiba",
-  "atrāban",
-  "wakasan",
-  "dihāqan",
-  "lā",
-  "yasmaʿūna",
-  "fīhā",
-  "laghwan",
-  "walā",
-  "kidhāban",
-  "jazāan",
-  "min",
-  "rabbika",
-  "ʿaṭāan",
-  "ḥisāban",
-  "rabbi",
-  "l-samāwāti",
-  "wal-arḍi",
-  "wamā",
-  "baynahumā",
-  "l-raḥmāni",
-  "lā",
-  "yamlikūna",
-  "min'hu",
-  "khiṭāban",
-  "yawma",
-  "yaqūmu",
-  "l-rūḥu",
-  "wal-malāikatu",
-  "ṣaffan",
-  "lā",
-  "yatakallamūna",
-  "illā",
-  "man",
-  "adhina",
-  "lahu",
-  "l-raḥmānu",
-  "waqāla",
-  "ṣawāban",
-  "dhālika",
-  "l-yawmu",
-  "l-ḥaqu",
-  "faman",
-  "shāa",
-  "ittakhadha",
-  "ilā",
-  "rabbihi",
-  "maāban",
-  "innā",
-  "andharnākum",
-  "ʿadhāban",
-  "qarīban",
-  "yawma",
-  "yanẓuru",
-  "l-maru",
-  "mā",
-  "qaddamat",
-  "yadāhu",
-  "wayaqūlu",
-  "l-kāfiru",
-  "yālaytanī",
-  "kuntu",
-  "turāban"
-]
+{
+  "1": [
+    "ʿamma",
+    "yatasāalūna"
+  ],
+  "2": [
+    "ʿani",
+    "l-naba-i",
+    "l-ʿaẓīmi"
+  ],
+  "3": [
+    "alladhī",
+    "hum",
+    "fīhi",
+    "mukh'talifūna"
+  ],
+  "4": [
+    "kallā",
+    "sayaʿlamūna"
+  ],
+  "5": [
+    "thumma",
+    "kallā",
+    "sayaʿlamūna"
+  ],
+  "6": [
+    "alam",
+    "najʿali",
+    "l-arḍa",
+    "mihādan"
+  ],
+  "7": [
+    "wal-jibāla",
+    "awtādan"
+  ],
+  "8": [
+    "wakhalaqnākum",
+    "azwājan"
+  ],
+  "9": [
+    "wajaʿalnā",
+    "nawmakum",
+    "subātan"
+  ],
+  "10": [
+    "wajaʿalnā",
+    "al-layla",
+    "libāsan"
+  ],
+  "11": [
+    "wajaʿalnā",
+    "l-nahāra",
+    "maʿāshan"
+  ],
+  "12": [
+    "wabanaynā",
+    "fawqakum",
+    "sabʿan",
+    "shidādan"
+  ],
+  "13": [
+    "wajaʿalnā",
+    "sirājan",
+    "wahhājan"
+  ],
+  "14": [
+    "wa-anzalnā",
+    "mina",
+    "l-muʿ'ṣirāti",
+    "māan",
+    "thajjājan"
+  ],
+  "15": [
+    "linukh'rija",
+    "bihi",
+    "ḥabban",
+    "wanabātan"
+  ],
+  "16": [
+    "wajannātin",
+    "alfāfan"
+  ],
+  "17": [
+    "inna",
+    "yawma",
+    "l-faṣli",
+    "kāna",
+    "mīqātan"
+  ],
+  "18": [
+    "yawma",
+    "yunfakhu",
+    "fī",
+    "l-ṣūri",
+    "fatatūna",
+    "afwājan"
+  ],
+  "19": [
+    "wafutiḥati",
+    "l-samāu",
+    "fakānat",
+    "abwāban"
+  ],
+  "20": [
+    "wasuyyirati",
+    "l-jibālu",
+    "fakānat",
+    "sarāban"
+  ],
+  "21": [
+    "inna",
+    "jahannama",
+    "kānat",
+    "mir'ṣādan"
+  ],
+  "22": [
+    "lilṭṭāghīna",
+    "maāban"
+  ],
+  "23": [
+    "lābithīna",
+    "fīhā",
+    "aḥqāban"
+  ],
+  "24": [
+    "lā",
+    "yadhūqūna",
+    "fīhā",
+    "bardan",
+    "walā",
+    "sharāban"
+  ],
+  "25": [
+    "illā",
+    "ḥamīman",
+    "waghassāqan"
+  ],
+  "26": [
+    "jazāan",
+    "wifāqan"
+  ],
+  "27": [
+    "innahum",
+    "kānū",
+    "lā",
+    "yarjūna",
+    "ḥisāban"
+  ],
+  "28": [
+    "wakadhabū",
+    "biāyātinā",
+    "kidhāban"
+  ],
+  "29": [
+    "wakulla",
+    "shayin",
+    "aḥṣaynāhu",
+    "kitāban"
+  ],
+  "30": [
+    "fadhūqū",
+    "falan",
+    "nazīdakum",
+    "illā",
+    "ʿadhāban"
+  ],
+  "31": [
+    "inna",
+    "lil'muttaqīna",
+    "mafāzan"
+  ],
+  "32": [
+    "ḥadāiqa",
+    "wa-aʿnāban"
+  ],
+  "33": [
+    "wakawāʿiba",
+    "atrāban"
+  ],
+  "34": [
+    "wakasan",
+    "dihāqan"
+  ],
+  "35": [
+    "lā",
+    "yasmaʿūna",
+    "fīhā",
+    "laghwan",
+    "walā",
+    "kidhāban"
+  ],
+  "36": [
+    "jazāan",
+    "min",
+    "rabbika",
+    "ʿaṭāan",
+    "ḥisāban"
+  ],
+  "37": [
+    "rabbi",
+    "l-samāwāti",
+    "wal-arḍi",
+    "wamā",
+    "baynahumā",
+    "l-raḥmāni",
+    "lā",
+    "yamlikūna",
+    "min'hu",
+    "khiṭāban"
+  ],
+  "38": [
+    "yawma",
+    "yaqūmu",
+    "l-rūḥu",
+    "wal-malāikatu",
+    "ṣaffan",
+    "lā",
+    "yatakallamūna",
+    "illā",
+    "man",
+    "adhina",
+    "lahu",
+    "l-raḥmānu",
+    "waqāla",
+    "ṣawāban"
+  ],
+  "39": [
+    "dhālika",
+    "l-yawmu",
+    "l-ḥaqu",
+    "faman",
+    "shāa",
+    "ittakhadha",
+    "ilā",
+    "rabbihi",
+    "maāban"
+  ],
+  "40": [
+    "innā",
+    "andharnākum",
+    "ʿadhāban",
+    "qarīban",
+    "yawma",
+    "yanẓuru",
+    "l-maru",
+    "mā",
+    "qaddamat",
+    "yadāhu",
+    "wayaqūlu",
+    "l-kāfiru",
+    "yālaytanī",
+    "kuntu",
+    "turāban"
+  ]
+}

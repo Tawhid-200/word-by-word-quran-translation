@@ -1,94 +1,146 @@
-[
-  "Has",
-  "(there) come to you",
-  "(the) news",
-  "(of) the Overwhelming?",
-  "Faces",
-  "that Day",
-  "(will be) humbled",
-  "Laboring",
-  "exhausted",
-  "They will burn",
-  "(in) a Fire",
-  "intensely hot",
-  "They will be given to drink",
-  "from",
-  "a spring",
-  "boiling",
-  "Is not",
-  "for them",
-  "food",
-  "except",
-  "from",
-  "a bitter thorny plant",
-  "Not",
-  "it nourishes",
-  "and not",
-  "it avails",
-  "against",
-  "hunger",
-  "Faces",
-  "that Day",
-  "(will be) joyful",
-  "With their effort",
-  "satisfied",
-  "In",
-  "a garden",
-  "elevated",
-  "Not",
-  "they will hear",
-  "therein",
-  "vain talk",
-  "Therein",
-  "(will be) a spring",
-  "flowing",
-  "Therein",
-  "(will be) thrones",
-  "raised high",
-  "And cups",
-  "put in place",
-  "And cushions",
-  "lined up",
-  "And carpets",
-  "spread out",
-  "Then do not",
-  "they look",
-  "at",
-  "the camels",
-  "how",
-  "they are created?",
-  "And at",
-  "the sky",
-  "how",
-  "it is raised?",
-  "And at",
-  "the mountains",
-  "how",
-  "they are fixed?",
-  "And at",
-  "the earth",
-  "how",
-  "it is spread out?",
-  "So remind",
-  "only",
-  "you",
-  "(are) a reminder",
-  "You are not",
-  "over them",
-  "a controller",
-  "But",
-  "whoever",
-  "turns away",
-  "and disbelieves",
-  "Then will punish him",
-  "Allah",
-  "(with) the punishment",
-  "greatest",
-  "Indeed",
-  "to Us",
-  "(will be) their return",
-  "Then",
-  "indeed",
-  "upon Us",
-  "(is) their account"
-]
+{
+  "1": [
+    "Has",
+    "(there) come to you",
+    "(the) news",
+    "(of) the Overwhelming?"
+  ],
+  "2": [
+    "Faces",
+    "that Day",
+    "(will be) humbled"
+  ],
+  "3": [
+    "Laboring",
+    "exhausted"
+  ],
+  "4": [
+    "They will burn",
+    "(in) a Fire",
+    "intensely hot"
+  ],
+  "5": [
+    "They will be given to drink",
+    "from",
+    "a spring",
+    "boiling"
+  ],
+  "6": [
+    "Is not",
+    "for them",
+    "food",
+    "except",
+    "from",
+    "a bitter thorny plant"
+  ],
+  "7": [
+    "Not",
+    "it nourishes",
+    "and not",
+    "it avails",
+    "against",
+    "hunger"
+  ],
+  "8": [
+    "Faces",
+    "that Day",
+    "(will be) joyful"
+  ],
+  "9": [
+    "With their effort",
+    "satisfied"
+  ],
+  "10": [
+    "In",
+    "a garden",
+    "elevated"
+  ],
+  "11": [
+    "Not",
+    "they will hear",
+    "therein",
+    "vain talk"
+  ],
+  "12": [
+    "Therein",
+    "(will be) a spring",
+    "flowing"
+  ],
+  "13": [
+    "Therein",
+    "(will be) thrones",
+    "raised high"
+  ],
+  "14": [
+    "And cups",
+    "put in place"
+  ],
+  "15": [
+    "And cushions",
+    "lined up"
+  ],
+  "16": [
+    "And carpets",
+    "spread out"
+  ],
+  "17": [
+    "Then do not",
+    "they look",
+    "at",
+    "the camels",
+    "how",
+    "they are created?"
+  ],
+  "18": [
+    "And at",
+    "the sky",
+    "how",
+    "it is raised?"
+  ],
+  "19": [
+    "And at",
+    "the mountains",
+    "how",
+    "they are fixed?"
+  ],
+  "20": [
+    "And at",
+    "the earth",
+    "how",
+    "it is spread out?"
+  ],
+  "21": [
+    "So remind",
+    "only",
+    "you",
+    "(are) a reminder"
+  ],
+  "22": [
+    "You are not",
+    "over them",
+    "a controller"
+  ],
+  "23": [
+    "But",
+    "whoever",
+    "turns away",
+    "and disbelieves"
+  ],
+  "24": [
+    "Then will punish him",
+    "Allah",
+    "(with) the punishment",
+    "greatest"
+  ],
+  "25": [
+    "Indeed",
+    "to Us",
+    "(will be) their return"
+  ],
+  "26": [
+    "Then",
+    "indeed",
+    "upon Us",
+    "(is) their account"
+  ]
+}

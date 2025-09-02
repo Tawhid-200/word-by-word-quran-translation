@@ -1,29 +1,45 @@
-[
-  "Est-ce que ne pas",
-  "Nous avons ouvert",
-  "pour toi",
-  "ta poitrine ?",
-  "Et avons enlevé",
-  "(de) toi",
-  "ton fardeau",
-  "qui",
-  "a surchargé",
-  "ton dos ?",
-  "Et avons élevé",
-  "pour toi",
-  "ton rappel ?",
-  "Alors certes,",
-  "avec",
-  "la difficulté",
-  "(il y a) de la facilité.",
-  "Certes,",
-  "avec",
-  "la difficulté",
-  "(il y a) de la facilité.",
-  "Donc quand",
-  "tu es libre,",
-  "alors met en place",
-  "et auprès de",
-  "ton Maître",
-  "alors place tes désirs."
-]
+{
+  "1": [
+    "Est-ce que ne pas",
+    "Nous avons ouvert",
+    "pour toi",
+    "ta poitrine ?"
+  ],
+  "2": [
+    "Et avons enlevé",
+    "(de) toi",
+    "ton fardeau"
+  ],
+  "3": [
+    "qui",
+    "a surchargé",
+    "ton dos ?"
+  ],
+  "4": [
+    "Et avons élevé",
+    "pour toi",
+    "ton rappel ?"
+  ],
+  "5": [
+    "Alors certes,",
+    "avec",
+    "la difficulté",
+    "(il y a) de la facilité."
+  ],
+  "6": [
+    "Certes,",
+    "avec",
+    "la difficulté",
+    "(il y a) de la facilité."
+  ],
+  "7": [
+    "Donc quand",
+    "tu es libre,",
+    "alors met en place"
+  ],
+  "8": [
+    "et auprès de",
+    "ton Maître",
+    "alors place tes désirs."
+  ]
+}

@@ -1,27 +1,41 @@
-[
-  "Siehst du (nicht)",
-  "denjenigen",
-  "(der) für Lüge erklärt",
-  "das Gericht",
-  "Das ist",
-  "derjenige",
-  "der zurückstößt",
-  "die Waise",
-  "und nicht",
-  "anhält",
-  "zur",
-  "Speisung",
-  "des Armen",
-  "Wehe nun",
-  "den Betenden",
-  "denjenigen",
-  "die",
-  "auf",
-  "ihre Gebete",
-  "nicht achten",
-  "denjenigen",
-  "die",
-  "(dabei nur) gesehen werden wollen",
-  "und verweigern",
-  "die Hilfeleistung"
-]
+{
+  "1": [
+    "Siehst du (nicht)",
+    "denjenigen",
+    "(der) für Lüge erklärt",
+    "das Gericht"
+  ],
+  "2": [
+    "Das ist",
+    "derjenige",
+    "der zurückstößt",
+    "die Waise"
+  ],
+  "3": [
+    "und nicht",
+    "anhält",
+    "zur",
+    "Speisung",
+    "des Armen"
+  ],
+  "4": [
+    "Wehe nun",
+    "den Betenden"
+  ],
+  "5": [
+    "denjenigen",
+    "die",
+    "auf",
+    "ihre Gebete",
+    "nicht achten"
+  ],
+  "6": [
+    "denjenigen",
+    "die",
+    "(dabei nur) gesehen werden wollen"
+  ],
+  "7": [
+    "und verweigern",
+    "die Hilfeleistung"
+  ]
+}

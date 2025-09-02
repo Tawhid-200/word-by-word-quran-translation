@@ -1,28 +1,40 @@
-[
-  "de ki",
-  "ey",
-  "inkar edenler",
-  "ben ibadet etmem",
-  "*",
-  "şeye",
-  "sizin taptığınız",
-  "ve (etmezsiniz)",
-  "siz de",
-  "ibadeti",
-  "benim taptığıma",
-  "*",
-  "ve değil(im)",
-  "ben",
-  "ibadet eden",
-  "sizin taptıklarınıza",
-  "*",
-  "ve değilsiniz",
-  "siz de",
-  "ibadet eden",
-  "benim ibadet ettiğime",
-  "*",
-  "sizindir",
-  "sizin dininiz",
-  "ve benimdir",
-  "benim dinim"
-]
+{
+  "1": [
+    "de ki",
+    "ey",
+    "inkar edenler"
+  ],
+  "2": [
+    "ben ibadet etmem",
+    "*",
+    "şeye",
+    "sizin taptığınız"
+  ],
+  "3": [
+    "ve (etmezsiniz)",
+    "siz de",
+    "ibadeti",
+    "benim taptığıma",
+    "*"
+  ],
+  "4": [
+    "ve değil(im)",
+    "ben",
+    "ibadet eden",
+    "sizin taptıklarınıza",
+    "*"
+  ],
+  "5": [
+    "ve değilsiniz",
+    "siz de",
+    "ibadet eden",
+    "benim ibadet ettiğime",
+    "*"
+  ],
+  "6": [
+    "sizindir",
+    "sizin dininiz",
+    "ve benimdir",
+    "benim dinim"
+  ]
+}

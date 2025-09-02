@@ -1,84 +1,124 @@
-[
-  "lā",
-  "uq'simu",
-  "bihādhā",
-  "l-baladi",
-  "wa-anta",
-  "ḥillun",
-  "bihādhā",
-  "l-baladi",
-  "wawālidin",
-  "wamā",
-  "walada",
-  "laqad",
-  "khalaqnā",
-  "l-insāna",
-  "fī",
-  "kabadin",
-  "ayaḥsabu",
-  "an",
-  "lan",
-  "yaqdira",
-  "ʿalayhi",
-  "aḥadun",
-  "yaqūlu",
-  "ahlaktu",
-  "mālan",
-  "lubadan",
-  "ayaḥsabu",
-  "an",
-  "lam",
-  "yarahu",
-  "aḥadun",
-  "alam",
-  "najʿal",
-  "lahu",
-  "ʿaynayni",
-  "walisānan",
-  "washafatayni",
-  "wahadaynāhu",
-  "l-najdayni",
-  "falā",
-  "iq'taḥama",
-  "l-ʿaqabata",
-  "wamā",
-  "adrāka",
-  "mā",
-  "l-ʿaqabatu",
-  "fakku",
-  "raqabatin",
-  "aw",
-  "iṭ'ʿāmun",
-  "fī",
-  "yawmin",
-  "dhī",
-  "masghabatin",
-  "yatīman",
-  "dhā",
-  "maqrabatin",
-  "aw",
-  "mis'kīnan",
-  "dhā",
-  "matrabatin",
-  "thumma",
-  "kāna",
-  "mina",
-  "alladhīna",
-  "āmanū",
-  "watawāṣaw",
-  "bil-ṣabri",
-  "watawāṣaw",
-  "bil-marḥamati",
-  "ulāika",
-  "aṣḥābu",
-  "l-maymanati",
-  "wa-alladhīna",
-  "kafarū",
-  "biāyātinā",
-  "hum",
-  "aṣḥābu",
-  "l-mashamati",
-  "ʿalayhim",
-  "nārun",
-  "mu'ṣadatun"
-]
+{
+  "1": [
+    "lā",
+    "uq'simu",
+    "bihādhā",
+    "l-baladi"
+  ],
+  "2": [
+    "wa-anta",
+    "ḥillun",
+    "bihādhā",
+    "l-baladi"
+  ],
+  "3": [
+    "wawālidin",
+    "wamā",
+    "walada"
+  ],
+  "4": [
+    "laqad",
+    "khalaqnā",
+    "l-insāna",
+    "fī",
+    "kabadin"
+  ],
+  "5": [
+    "ayaḥsabu",
+    "an",
+    "lan",
+    "yaqdira",
+    "ʿalayhi",
+    "aḥadun"
+  ],
+  "6": [
+    "yaqūlu",
+    "ahlaktu",
+    "mālan",
+    "lubadan"
+  ],
+  "7": [
+    "ayaḥsabu",
+    "an",
+    "lam",
+    "yarahu",
+    "aḥadun"
+  ],
+  "8": [
+    "alam",
+    "najʿal",
+    "lahu",
+    "ʿaynayni"
+  ],
+  "9": [
+    "walisānan",
+    "washafatayni"
+  ],
+  "10": [
+    "wahadaynāhu",
+    "l-najdayni"
+  ],
+  "11": [
+    "falā",
+    "iq'taḥama",
+    "l-ʿaqabata"
+  ],
+  "12": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "l-ʿaqabatu"
+  ],
+  "13": [
+    "fakku",
+    "raqabatin"
+  ],
+  "14": [
+    "aw",
+    "iṭ'ʿāmun",
+    "fī",
+    "yawmin",
+    "dhī",
+    "masghabatin"
+  ],
+  "15": [
+    "yatīman",
+    "dhā",
+    "maqrabatin"
+  ],
+  "16": [
+    "aw",
+    "mis'kīnan",
+    "dhā",
+    "matrabatin"
+  ],
+  "17": [
+    "thumma",
+    "kāna",
+    "mina",
+    "alladhīna",
+    "āmanū",
+    "watawāṣaw",
+    "bil-ṣabri",
+    "watawāṣaw",
+    "bil-marḥamati"
+  ],
+  "18": [
+    "ulāika",
+    "aṣḥābu",
+    "l-maymanati"
+  ],
+  "19": [
+    "wa-alladhīna",
+    "kafarū",
+    "biāyātinā",
+    "hum",
+    "aṣḥābu",
+    "l-mashamati"
+  ],
+  "20": [
+    "ʿalayhim",
+    "nārun",
+    "mu'ṣadatun"
+  ]
+}

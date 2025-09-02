@@ -1,29 +1,45 @@
-[
-  "Have not",
-  "We expanded",
-  "for you",
-  "your breast?",
-  "And We removed",
-  "from you",
-  "your burden",
-  "Which",
-  "weighed upon",
-  "your back",
-  "And We raised high",
-  "for you",
-  "your esteem",
-  "So indeed",
-  "with",
-  "the hardship",
-  "(is) ease",
-  "Indeed",
-  "with",
-  "the hardship",
-  "(is) ease",
-  "So when",
-  "you are free",
-  "then stand up",
-  "And to",
-  "your Lord",
-  "turn your attention"
-]
+{
+  "1": [
+    "Have not",
+    "We expanded",
+    "for you",
+    "your breast?"
+  ],
+  "2": [
+    "And We removed",
+    "from you",
+    "your burden"
+  ],
+  "3": [
+    "Which",
+    "weighed upon",
+    "your back"
+  ],
+  "4": [
+    "And We raised high",
+    "for you",
+    "your esteem"
+  ],
+  "5": [
+    "So indeed",
+    "with",
+    "the hardship",
+    "(is) ease"
+  ],
+  "6": [
+    "Indeed",
+    "with",
+    "the hardship",
+    "(is) ease"
+  ],
+  "7": [
+    "So when",
+    "you are free",
+    "then stand up"
+  ],
+  "8": [
+    "And to",
+    "your Lord",
+    "turn your attention"
+  ]
+}

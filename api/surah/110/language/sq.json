@@ -1,21 +1,27 @@
-[
-  "Kur",
-  "(të) vijë",
-  "ndihma",
-  "e Allahut",
-  "dhe çlirimi",
-  "dhe t'i shohësh",
-  "njerëzit",
-  "(që) hyjnë",
-  "në",
-  "fenë",
-  "e Allahut",
-  "turma-turma",
-  "Atëherë, lartësoje",
-  "me falënderim",
-  "Zotin tënd",
-  "dhe kërko falje prej Tij",
-  "vërtet Ai",
-  "është",
-  "Pendimpranues i madh"
-]
+{
+  "1": [
+    "Kur",
+    "(të) vijë",
+    "ndihma",
+    "e Allahut",
+    "dhe çlirimi"
+  ],
+  "2": [
+    "dhe t'i shohësh",
+    "njerëzit",
+    "(që) hyjnë",
+    "në",
+    "fenë",
+    "e Allahut",
+    "turma-turma"
+  ],
+  "3": [
+    "Atëherë, lartësoje",
+    "me falënderim",
+    "Zotin tënd",
+    "dhe kërko falje prej Tij",
+    "vërtet Ai",
+    "është",
+    "Pendimpranues i madh"
+  ]
+}

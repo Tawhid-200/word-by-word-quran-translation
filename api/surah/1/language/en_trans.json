@@ -1,31 +1,45 @@
-[
-  "bis'mi",
-  "l-lahi",
-  "l-raḥmāni",
-  "l-raḥīmi",
-  "al-ḥamdu",
-  "lillahi",
-  "rabbi",
-  "l-ʿālamīna",
-  "al-raḥmāni",
-  "l-raḥīmi",
-  "māliki",
-  "yawmi",
-  "l-dīni",
-  "iyyāka",
-  "naʿbudu",
-  "wa-iyyāka",
-  "nastaʿīnu",
-  "ih'dinā",
-  "l-ṣirāṭa",
-  "l-mus'taqīma",
-  "ṣirāṭa",
-  "alladhīna",
-  "anʿamta",
-  "ʿalayhim",
-  "ghayri",
-  "l-maghḍūbi",
-  "ʿalayhim",
-  "walā",
-  "l-ḍālīna"
-]
+{
+  "1": [
+    "bis'mi",
+    "l-lahi",
+    "l-raḥmāni",
+    "l-raḥīmi"
+  ],
+  "2": [
+    "al-ḥamdu",
+    "lillahi",
+    "rabbi",
+    "l-ʿālamīna"
+  ],
+  "3": [
+    "al-raḥmāni",
+    "l-raḥīmi"
+  ],
+  "4": [
+    "māliki",
+    "yawmi",
+    "l-dīni"
+  ],
+  "5": [
+    "iyyāka",
+    "naʿbudu",
+    "wa-iyyāka",
+    "nastaʿīnu"
+  ],
+  "6": [
+    "ih'dinā",
+    "l-ṣirāṭa",
+    "l-mus'taqīma"
+  ],
+  "7": [
+    "ṣirāṭa",
+    "alladhīna",
+    "anʿamta",
+    "ʿalayhim",
+    "ghayri",
+    "l-maghḍūbi",
+    "ʿalayhim",
+    "walā",
+    "l-ḍālīna"
+  ]
+}

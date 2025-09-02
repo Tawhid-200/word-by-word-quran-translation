@@ -1,42 +1,64 @@
-[
-  "wal-ḍuḥā",
-  "wa-al-layli",
-  "idhā",
-  "sajā",
-  "mā",
-  "waddaʿaka",
-  "rabbuka",
-  "wamā",
-  "qalā",
-  "walalākhiratu",
-  "khayrun",
-  "laka",
-  "mina",
-  "l-ūlā",
-  "walasawfa",
-  "yuʿ'ṭīka",
-  "rabbuka",
-  "fatarḍā",
-  "alam",
-  "yajid'ka",
-  "yatīman",
-  "faāwā",
-  "wawajadaka",
-  "ḍāllan",
-  "fahadā",
-  "wawajadaka",
-  "ʿāilan",
-  "fa-aghnā",
-  "fa-ammā",
-  "l-yatīma",
-  "falā",
-  "taqhar",
-  "wa-ammā",
-  "l-sāila",
-  "falā",
-  "tanhar",
-  "wa-ammā",
-  "biniʿ'mati",
-  "rabbika",
-  "faḥaddith"
-]
+{
+  "1": [
+    "wal-ḍuḥā"
+  ],
+  "2": [
+    "wa-al-layli",
+    "idhā",
+    "sajā"
+  ],
+  "3": [
+    "mā",
+    "waddaʿaka",
+    "rabbuka",
+    "wamā",
+    "qalā"
+  ],
+  "4": [
+    "walalākhiratu",
+    "khayrun",
+    "laka",
+    "mina",
+    "l-ūlā"
+  ],
+  "5": [
+    "walasawfa",
+    "yuʿ'ṭīka",
+    "rabbuka",
+    "fatarḍā"
+  ],
+  "6": [
+    "alam",
+    "yajid'ka",
+    "yatīman",
+    "faāwā"
+  ],
+  "7": [
+    "wawajadaka",
+    "ḍāllan",
+    "fahadā"
+  ],
+  "8": [
+    "wawajadaka",
+    "ʿāilan",
+    "fa-aghnā"
+  ],
+  "9": [
+    "fa-ammā",
+    "l-yatīma",
+    "falā",
+    "taqhar"
+  ],
+  "10": [
+    "wa-ammā",
+    "l-sāila",
+    "falā",
+    "tanhar"
+  ],
+  "11": [
+    "wa-ammā",
+    "biniʿ'mati",
+    "rabbika",
+    "faḥaddith"
+  ]
+}

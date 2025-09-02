@@ -1,19 +1,27 @@
-[
-  "liīlāfi",
-  "qurayshin",
-  "īlāfihim",
-  "riḥ'lata",
-  "l-shitāi",
-  "wal-ṣayfi",
-  "falyaʿbudū",
-  "rabba",
-  "hādhā",
-  "l-bayti",
-  "alladhī",
-  "aṭʿamahum",
-  "min",
-  "jūʿin",
-  "waāmanahum",
-  "min",
-  "khawfin"
-]
+{
+  "1": [
+    "liīlāfi",
+    "qurayshin"
+  ],
+  "2": [
+    "īlāfihim",
+    "riḥ'lata",
+    "l-shitāi",
+    "wal-ṣayfi"
+  ],
+  "3": [
+    "falyaʿbudū",
+    "rabba",
+    "hādhā",
+    "l-bayti"
+  ],
+  "4": [
+    "alladhī",
+    "aṭʿamahum",
+    "min",
+    "jūʿin",
+    "waāmanahum",
+    "min",
+    "khawfin"
+  ]
+}

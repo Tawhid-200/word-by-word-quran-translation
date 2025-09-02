@@ -1,17 +1,6 @@
-[
-  "Say",
-  "\"He",
-  "(is) Allah",
-  "the One",
-  "Allah",
-  "the Eternal the Absolute",
-  "Not",
-  "He begets",
-  "and not",
-  "He is begotten",
-  "And not",
-  "is",
-  "for Him",
-  "equivalent",
-  "any [one]\""
-]
+{
+  "1": ["Say", "He", "(is) Allah", "the One"],
+  "2": ["Allah", "the Eternal the Absolute"],
+  "3": ["Not", "He begets", "and not", "He is begotten"],
+  "4": ["And not", "is", "for Him", "equivalent", "any [one]"]
+}

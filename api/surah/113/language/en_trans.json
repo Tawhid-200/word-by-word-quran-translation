@@ -1,25 +1,35 @@
-[
-  "qul",
-  "aʿūdhu",
-  "birabbi",
-  "l-falaqi",
-  "min",
-  "sharri",
-  "mā",
-  "khalaqa",
-  "wamin",
-  "sharri",
-  "ghāsiqin",
-  "idhā",
-  "waqaba",
-  "wamin",
-  "sharri",
-  "l-nafāthāti",
-  "fī",
-  "l-ʿuqadi",
-  "wamin",
-  "sharri",
-  "ḥāsidin",
-  "idhā",
-  "ḥasada"
-]
+{
+  "1": [
+    "qul",
+    "aʿūdhu",
+    "birabbi",
+    "l-falaqi"
+  ],
+  "2": [
+    "min",
+    "sharri",
+    "mā",
+    "khalaqa"
+  ],
+  "3": [
+    "wamin",
+    "sharri",
+    "ghāsiqin",
+    "idhā",
+    "waqaba"
+  ],
+  "4": [
+    "wamin",
+    "sharri",
+    "l-nafāthāti",
+    "fī",
+    "l-ʿuqadi"
+  ],
+  "5": [
+    "wamin",
+    "sharri",
+    "ḥāsidin",
+    "idhā",
+    "ḥasada"
+  ]
+}

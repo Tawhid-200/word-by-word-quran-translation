@@ -1,36 +1,52 @@
-[
-  "wal-tīni",
-  "wal-zaytūni",
-  "waṭūri",
-  "sīnīna",
-  "wahādhā",
-  "l-baladi",
-  "l-amīni",
-  "laqad",
-  "khalaqnā",
-  "l-insāna",
-  "fī",
-  "aḥsani",
-  "taqwīmin",
-  "thumma",
-  "radadnāhu",
-  "asfala",
-  "sāfilīna",
-  "illā",
-  "alladhīna",
-  "āmanū",
-  "waʿamilū",
-  "l-ṣāliḥāti",
-  "falahum",
-  "ajrun",
-  "ghayru",
-  "mamnūnin",
-  "famā",
-  "yukadhibuka",
-  "baʿdu",
-  "bil-dīni",
-  "alaysa",
-  "l-lahu",
-  "bi-aḥkami",
-  "l-ḥākimīna"
-]
+{
+  "1": [
+    "wal-tīni",
+    "wal-zaytūni"
+  ],
+  "2": [
+    "waṭūri",
+    "sīnīna"
+  ],
+  "3": [
+    "wahādhā",
+    "l-baladi",
+    "l-amīni"
+  ],
+  "4": [
+    "laqad",
+    "khalaqnā",
+    "l-insāna",
+    "fī",
+    "aḥsani",
+    "taqwīmin"
+  ],
+  "5": [
+    "thumma",
+    "radadnāhu",
+    "asfala",
+    "sāfilīna"
+  ],
+  "6": [
+    "illā",
+    "alladhīna",
+    "āmanū",
+    "waʿamilū",
+    "l-ṣāliḥāti",
+    "falahum",
+    "ajrun",
+    "ghayru",
+    "mamnūnin"
+  ],
+  "7": [
+    "famā",
+    "yukadhibuka",
+    "baʿdu",
+    "bil-dīni"
+  ],
+  "8": [
+    "alaysa",
+    "l-lahu",
+    "bi-aḥkami",
+    "l-ḥākimīna"
+  ]
+}

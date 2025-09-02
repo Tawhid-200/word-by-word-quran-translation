@@ -1,25 +1,35 @@
-[
-  "Dis :",
-  "« Je cherche refuge",
-  "auprès du Maître",
-  "(de) la division horizontale (durant l’aube)",
-  "du",
-  "mal",
-  "(de) ce qu’",
-  "Il a créé",
-  "et du",
-  "mal",
-  "(de) quelque chose qui couvre d’obscurité",
-  "quand",
-  "il arrive",
-  "et du",
-  "mal",
-  "(de) celles qui soufflent",
-  "dans",
-  "les nœuds",
-  "et du",
-  "mal",
-  "(de) quelqu’un qui a envie qu’un autre perde une faveur",
-  "quand",
-  "il a envie que quelqu’un perde une faveur. »"
-]
+{
+  "1": [
+    "Dis :",
+    "« Je cherche refuge",
+    "auprès du Maître",
+    "(de) la division horizontale (durant l’aube)"
+  ],
+  "2": [
+    "du",
+    "mal",
+    "(de) ce qu’",
+    "Il a créé"
+  ],
+  "3": [
+    "et du",
+    "mal",
+    "(de) quelque chose qui couvre d’obscurité",
+    "quand",
+    "il arrive"
+  ],
+  "4": [
+    "et du",
+    "mal",
+    "(de) celles qui soufflent",
+    "dans",
+    "les nœuds"
+  ],
+  "5": [
+    "et du",
+    "mal",
+    "(de) quelqu’un qui a envie qu’un autre perde une faveur",
+    "quand",
+    "il a envie que quelqu’un perde une faveur. »"
+  ]
+}

@@ -1,25 +1,35 @@
-[
-  "alam",
-  "tara",
-  "kayfa",
-  "faʿala",
-  "rabbuka",
-  "bi-aṣḥābi",
-  "l-fīli",
-  "alam",
-  "yajʿal",
-  "kaydahum",
-  "fī",
-  "taḍlīlin",
-  "wa-arsala",
-  "ʿalayhim",
-  "ṭayran",
-  "abābīla",
-  "tarmīhim",
-  "biḥijāratin",
-  "min",
-  "sijjīlin",
-  "fajaʿalahum",
-  "kaʿaṣfin",
-  "makūlin"
-]
+{
+  "1": [
+    "alam",
+    "tara",
+    "kayfa",
+    "faʿala",
+    "rabbuka",
+    "bi-aṣḥābi",
+    "l-fīli"
+  ],
+  "2": [
+    "alam",
+    "yajʿal",
+    "kaydahum",
+    "fī",
+    "taḍlīlin"
+  ],
+  "3": [
+    "wa-arsala",
+    "ʿalayhim",
+    "ṭayran",
+    "abābīla"
+  ],
+  "4": [
+    "tarmīhim",
+    "biḥijāratin",
+    "min",
+    "sijjīlin"
+  ],
+  "5": [
+    "fajaʿalahum",
+    "kaʿaṣfin",
+    "makūlin"
+  ]
+}

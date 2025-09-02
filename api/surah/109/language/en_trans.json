@@ -1,28 +1,40 @@
-[
-  "qul",
-  "yāayyuhā",
-  "l-kāfirūna",
-  "lā",
-  "aʿbudu",
-  "mā",
-  "taʿbudūna",
-  "walā",
-  "antum",
-  "ʿābidūna",
-  "mā",
-  "aʿbudu",
-  "walā",
-  "anā",
-  "ʿābidun",
-  "mā",
-  "ʿabadttum",
-  "walā",
-  "antum",
-  "ʿābidūna",
-  "mā",
-  "aʿbudu",
-  "lakum",
-  "dīnukum",
-  "waliya",
-  "dīni"
-]
+{
+  "1": [
+    "qul",
+    "yāayyuhā",
+    "l-kāfirūna"
+  ],
+  "2": [
+    "lā",
+    "aʿbudu",
+    "mā",
+    "taʿbudūna"
+  ],
+  "3": [
+    "walā",
+    "antum",
+    "ʿābidūna",
+    "mā",
+    "aʿbudu"
+  ],
+  "4": [
+    "walā",
+    "anā",
+    "ʿābidun",
+    "mā",
+    "ʿabadttum"
+  ],
+  "5": [
+    "walā",
+    "antum",
+    "ʿābidūna",
+    "mā",
+    "aʿbudu"
+  ],
+  "6": [
+    "lakum",
+    "dīnukum",
+    "waliya",
+    "dīni"
+  ]
+}

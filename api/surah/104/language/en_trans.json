@@ -1,35 +1,53 @@
-[
-  "waylun",
-  "likulli",
-  "humazatin",
-  "lumazatin",
-  "alladhī",
-  "jamaʿa",
-  "mālan",
-  "waʿaddadahu",
-  "yaḥsabu",
-  "anna",
-  "mālahu",
-  "akhladahu",
-  "kallā",
-  "layunbadhanna",
-  "fī",
-  "l-ḥuṭamati",
-  "wamā",
-  "adrāka",
-  "mā",
-  "l-ḥuṭamatu",
-  "nāru",
-  "l-lahi",
-  "l-mūqadatu",
-  "allatī",
-  "taṭṭaliʿu",
-  "ʿalā",
-  "l-afidati",
-  "innahā",
-  "ʿalayhim",
-  "mu'ṣadatun",
-  "fī",
-  "ʿamadin",
-  "mumaddadatin"
-]
+{
+  "1": [
+    "waylun",
+    "likulli",
+    "humazatin",
+    "lumazatin"
+  ],
+  "2": [
+    "alladhī",
+    "jamaʿa",
+    "mālan",
+    "waʿaddadahu"
+  ],
+  "3": [
+    "yaḥsabu",
+    "anna",
+    "mālahu",
+    "akhladahu"
+  ],
+  "4": [
+    "kallā",
+    "layunbadhanna",
+    "fī",
+    "l-ḥuṭamati"
+  ],
+  "5": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "l-ḥuṭamatu"
+  ],
+  "6": [
+    "nāru",
+    "l-lahi",
+    "l-mūqadatu"
+  ],
+  "7": [
+    "allatī",
+    "taṭṭaliʿu",
+    "ʿalā",
+    "l-afidati"
+  ],
+  "8": [
+    "innahā",
+    "ʿalayhim",
+    "mu'ṣadatun"
+  ],
+  "9": [
+    "fī",
+    "ʿamadin",
+    "mumaddadatin"
+  ]
+}

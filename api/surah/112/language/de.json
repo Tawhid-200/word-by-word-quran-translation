@@ -1,17 +1,6 @@
-[
-  "Sag:",
-  "\"Er",
-  "(ist) Allah",
-  "ein Einer",
-  "Allah",
-  "der Überlegene",
-  "Nicht hat",
-  "Er gezeugt",
-  "und (ist) nicht",
-  "gezeugt worden",
-  "und nie",
-  "ist",
-  "ihm",
-  "ebenbürtig",
-  "jemand"
-]
+{
+  "1": ["Sag:", "Er", "(ist) Allah", "ein Einer"],
+  "2": ["Allah", "der Überlegene"],
+  "3": ["Nicht hat", "Er gezeugt", "und (ist) nicht", "gezeugt worden"],
+  "4": ["und nie", "ist", "ihm", "ebenbürtig", "jemand"]
+}

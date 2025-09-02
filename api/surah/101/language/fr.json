@@ -1,38 +1,60 @@
-[
-  "Le Désastre Soudain !",
-  "Qu’(est)-ce que",
-  "Le Désastre Soudain ?",
-  "Et qu’est-ce qui",
-  "te fera savoir",
-  "ce qu’(est)",
-  "Le Désastre Soudain ?",
-  "(Le) Jour (où)",
-  "seront",
-  "les gens",
-  "comme les insectes attirés par la lumière",
-  "dispersés",
-  "et seront",
-  "les montagnes",
-  "comme la laine",
-  "dispersée.",
-  "Donc, quant à",
-  "quiconque",
-  "pèsent lourdes",
-  "ses balances,",
-  "alors il",
-  "(sera) dans",
-  "une vie",
-  "satisfaisante.",
-  "Et quant à",
-  "quiconque",
-  "pèsent légères",
-  "ses balances,",
-  "alors son domicile",
-  "(sera) une abîme.",
-  "Et qu’est-ce qui",
-  "te fera savoir",
-  "ce qu’",
-  "elle (est) ?",
-  "Un Feu",
-  "Ardent."
-]
+{
+  "1": [
+    "Le Désastre Soudain !"
+  ],
+  "2": [
+    "Qu’(est)-ce que",
+    "Le Désastre Soudain ?"
+  ],
+  "3": [
+    "Et qu’est-ce qui",
+    "te fera savoir",
+    "ce qu’(est)",
+    "Le Désastre Soudain ?"
+  ],
+  "4": [
+    "(Le) Jour (où)",
+    "seront",
+    "les gens",
+    "comme les insectes attirés par la lumière",
+    "dispersés"
+  ],
+  "5": [
+    "et seront",
+    "les montagnes",
+    "comme la laine",
+    "dispersée."
+  ],
+  "6": [
+    "Donc, quant à",
+    "quiconque",
+    "pèsent lourdes",
+    "ses balances,"
+  ],
+  "7": [
+    "alors il",
+    "(sera) dans",
+    "une vie",
+    "satisfaisante."
+  ],
+  "8": [
+    "Et quant à",
+    "quiconque",
+    "pèsent légères",
+    "ses balances,"
+  ],
+  "9": [
+    "alors son domicile",
+    "(sera) une abîme."
+  ],
+  "10": [
+    "Et qu’est-ce qui",
+    "te fera savoir",
+    "ce qu’",
+    "elle (est) ?"
+  ],
+  "11": [
+    "Un Feu",
+    "Ardent."
+  ]
+}

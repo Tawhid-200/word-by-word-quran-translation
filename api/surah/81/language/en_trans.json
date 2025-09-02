@@ -1,106 +1,164 @@
-[
-  "idhā",
-  "l-shamsu",
-  "kuwwirat",
-  "wa-idhā",
-  "l-nujūmu",
-  "inkadarat",
-  "wa-idhā",
-  "l-jibālu",
-  "suyyirat",
-  "wa-idhā",
-  "l-ʿishāru",
-  "ʿuṭṭilat",
-  "wa-idhā",
-  "l-wuḥūshu",
-  "ḥushirat",
-  "wa-idhā",
-  "l-biḥāru",
-  "sujjirat",
-  "wa-idhā",
-  "l-nufūsu",
-  "zuwwijat",
-  "wa-idhā",
-  "l-mawūdatu",
-  "su-ilat",
-  "bi-ayyi",
-  "dhanbin",
-  "qutilat",
-  "wa-idhā",
-  "l-ṣuḥufu",
-  "nushirat",
-  "wa-idhā",
-  "l-samāu",
-  "kushiṭat",
-  "wa-idhā",
-  "l-jaḥīmu",
-  "suʿʿirat",
-  "wa-idhā",
-  "l-janatu",
-  "uz'lifat",
-  "ʿalimat",
-  "nafsun",
-  "mā",
-  "aḥḍarat",
-  "falā",
-  "uq'simu",
-  "bil-khunasi",
-  "al-jawāri",
-  "l-kunasi",
-  "wa-al-layli",
-  "idhā",
-  "ʿasʿasa",
-  "wal-ṣub'ḥi",
-  "idhā",
-  "tanaffasa",
-  "innahu",
-  "laqawlu",
-  "rasūlin",
-  "karīmin",
-  "dhī",
-  "quwwatin",
-  "ʿinda",
-  "dhī",
-  "l-ʿarshi",
-  "makīnin",
-  "muṭāʿin",
-  "thamma",
-  "amīnin",
-  "wamā",
-  "ṣāḥibukum",
-  "bimajnūnin",
-  "walaqad",
-  "raāhu",
-  "bil-ufuqi",
-  "l-mubīni",
-  "wamā",
-  "huwa",
-  "ʿalā",
-  "l-ghaybi",
-  "biḍanīnin",
-  "wamā",
-  "huwa",
-  "biqawli",
-  "shayṭānin",
-  "rajīmin",
-  "fa-ayna",
-  "tadhhabūna",
-  "in",
-  "huwa",
-  "illā",
-  "dhik'run",
-  "lil'ʿālamīna",
-  "liman",
-  "shāa",
-  "minkum",
-  "an",
-  "yastaqīma",
-  "wamā",
-  "tashāūna",
-  "illā",
-  "an",
-  "yashāa",
-  "l-lahu",
-  "rabbu",
-  "l-ʿālamīna"
-]
+{
+  "1": [
+    "idhā",
+    "l-shamsu",
+    "kuwwirat"
+  ],
+  "2": [
+    "wa-idhā",
+    "l-nujūmu",
+    "inkadarat"
+  ],
+  "3": [
+    "wa-idhā",
+    "l-jibālu",
+    "suyyirat"
+  ],
+  "4": [
+    "wa-idhā",
+    "l-ʿishāru",
+    "ʿuṭṭilat"
+  ],
+  "5": [
+    "wa-idhā",
+    "l-wuḥūshu",
+    "ḥushirat"
+  ],
+  "6": [
+    "wa-idhā",
+    "l-biḥāru",
+    "sujjirat"
+  ],
+  "7": [
+    "wa-idhā",
+    "l-nufūsu",
+    "zuwwijat"
+  ],
+  "8": [
+    "wa-idhā",
+    "l-mawūdatu",
+    "su-ilat"
+  ],
+  "9": [
+    "bi-ayyi",
+    "dhanbin",
+    "qutilat"
+  ],
+  "10": [
+    "wa-idhā",
+    "l-ṣuḥufu",
+    "nushirat"
+  ],
+  "11": [
+    "wa-idhā",
+    "l-samāu",
+    "kushiṭat"
+  ],
+  "12": [
+    "wa-idhā",
+    "l-jaḥīmu",
+    "suʿʿirat"
+  ],
+  "13": [
+    "wa-idhā",
+    "l-janatu",
+    "uz'lifat"
+  ],
+  "14": [
+    "ʿalimat",
+    "nafsun",
+    "mā",
+    "aḥḍarat"
+  ],
+  "15": [
+    "falā",
+    "uq'simu",
+    "bil-khunasi"
+  ],
+  "16": [
+    "al-jawāri",
+    "l-kunasi"
+  ],
+  "17": [
+    "wa-al-layli",
+    "idhā",
+    "ʿasʿasa"
+  ],
+  "18": [
+    "wal-ṣub'ḥi",
+    "idhā",
+    "tanaffasa"
+  ],
+  "19": [
+    "innahu",
+    "laqawlu",
+    "rasūlin",
+    "karīmin"
+  ],
+  "20": [
+    "dhī",
+    "quwwatin",
+    "ʿinda",
+    "dhī",
+    "l-ʿarshi",
+    "makīnin"
+  ],
+  "21": [
+    "muṭāʿin",
+    "thamma",
+    "amīnin"
+  ],
+  "22": [
+    "wamā",
+    "ṣāḥibukum",
+    "bimajnūnin"
+  ],
+  "23": [
+    "walaqad",
+    "raāhu",
+    "bil-ufuqi",
+    "l-mubīni"
+  ],
+  "24": [
+    "wamā",
+    "huwa",
+    "ʿalā",
+    "l-ghaybi",
+    "biḍanīnin"
+  ],
+  "25": [
+    "wamā",
+    "huwa",
+    "biqawli",
+    "shayṭānin",
+    "rajīmin"
+  ],
+  "26": [
+    "fa-ayna",
+    "tadhhabūna"
+  ],
+  "27": [
+    "in",
+    "huwa",
+    "illā",
+    "dhik'run",
+    "lil'ʿālamīna"
+  ],
+  "28": [
+    "liman",
+    "shāa",
+    "minkum",
+    "an",
+    "yastaqīma"
+  ],
+  "29": [
+    "wamā",
+    "tashāūna",
+    "illā",
+    "an",
+    "yashāa",
+    "l-lahu",
+    "rabbu",
+    "l-ʿālamīna"
+  ]
+}

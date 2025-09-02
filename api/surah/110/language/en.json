@@ -1,21 +1,27 @@
-[
-  "When",
-  "comes",
-  "(the) Help",
-  "(of) Allah",
-  "and the Victory",
-  "And you see",
-  "the people",
-  "entering",
-  "into",
-  "(the) religion",
-  "(of) Allah",
-  "(in) multitudes",
-  "Then glorify",
-  "(the) praises",
-  "(of) your Lord",
-  "and ask His forgiveness",
-  "Indeed He",
-  "is",
-  "Oft-Returning"
-]
+{
+  "1": [
+    "When",
+    "comes",
+    "(the) Help",
+    "(of) Allah",
+    "and the Victory"
+  ],
+  "2": [
+    "And you see",
+    "the people",
+    "entering",
+    "into",
+    "(the) religion",
+    "(of) Allah",
+    "(in) multitudes"
+  ],
+  "3": [
+    "Then glorify",
+    "(the) praises",
+    "(of) your Lord",
+    "and ask His forgiveness",
+    "Indeed He",
+    "is",
+    "Oft-Returning"
+  ]
+}

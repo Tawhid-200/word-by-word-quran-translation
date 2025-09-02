@@ -1,106 +1,164 @@
-[
-  "Quand",
-  "le soleil",
-  "sera enroulé",
-  "et quand",
-  "les étoiles",
-  "tomberont rapidement",
-  "et quand",
-  "les montagnes",
-  "seront causées à partir",
-  "et quand",
-  "les chamelles enceintes depuis au moins 10 mois",
-  "seront laissées sans surveillance",
-  "et quand",
-  "les bêtes sauvages",
-  "seront assemblées et détruites",
-  "et quand",
-  "les mers",
-  "seront remplies",
-  "et quand",
-  "les âmes",
-  "seront accouplées",
-  "et quand",
-  "la fillette enterrée vivante",
-  "sera interrogée",
-  "pour quel",
-  "crime",
-  "elle a été tuée",
-  "et quand",
-  "les pages",
-  "seront déployées/déroulées",
-  "et quand",
-  "le ciel",
-  "sera retiré",
-  "et quand",
-  "Le Feu Ardent",
-  "sera enflammé ardemment",
-  "et quand",
-  "Le Paradis",
-  "sera rapproché,",
-  "saura",
-  "une âme",
-  "ce qu’",
-  "elle a présentée.",
-  "Donc non !",
-  "Je jure",
-  "par ceux qui se retirent,",
-  "qui poursuivent leurs cours,",
-  "qui se cachent,",
-  "et (par) la nuit",
-  "quand",
-  "elle part",
-  "et l’aube",
-  "quand",
-  "elle commence à briller !",
-  "Certes, Il (est)",
-  "certainement (la) parole",
-  "(d’)un Messager",
-  "honorable,",
-  "compagnon",
-  "(de) puissance,",
-  "auprès",
-  "(du) Compagnon",
-  "(du) Trône",
-  "établi,",
-  "quelqu’un qui est obéi",
-  "là-bas,",
-  "à qui la confiance est faite.",
-  "Et n’(est) pas",
-  "votre compagnon",
-  "du tout fou.",
-  "Et récemment certainement",
-  "il l’a vu",
-  "dans l’horizon",
-  "clair.",
-  "Et ne pas",
-  "il (est)",
-  "de",
-  "l’inaperçu",
-  "du tout avare.",
-  "Et ne pas",
-  "Il (est)",
-  "du tout (la) parole",
-  "(d’)un démon",
-  "banni.",
-  "Où donc",
-  "partez-vous ?",
-  "Ne pas",
-  "Il (est)",
-  "sauf",
-  "un rappel",
-  "pour toutes les générations de chaque créature,",
-  "pour quiconque",
-  "veut",
-  "parmi vous",
-  "qu’",
-  "il aille sur un chemin droit.",
-  "Et ne pas",
-  "vous voulez",
-  "sans",
-  "que",
-  "veuille",
-  "Allâh,",
-  "(Le) Maître",
-  "(de) toutes les générations de chaque créature."
-]
+{
+  "1": [
+    "Quand",
+    "le soleil",
+    "sera enroulé"
+  ],
+  "2": [
+    "et quand",
+    "les étoiles",
+    "tomberont rapidement"
+  ],
+  "3": [
+    "et quand",
+    "les montagnes",
+    "seront causées à partir"
+  ],
+  "4": [
+    "et quand",
+    "les chamelles enceintes depuis au moins 10 mois",
+    "seront laissées sans surveillance"
+  ],
+  "5": [
+    "et quand",
+    "les bêtes sauvages",
+    "seront assemblées et détruites"
+  ],
+  "6": [
+    "et quand",
+    "les mers",
+    "seront remplies"
+  ],
+  "7": [
+    "et quand",
+    "les âmes",
+    "seront accouplées"
+  ],
+  "8": [
+    "et quand",
+    "la fillette enterrée vivante",
+    "sera interrogée"
+  ],
+  "9": [
+    "pour quel",
+    "crime",
+    "elle a été tuée"
+  ],
+  "10": [
+    "et quand",
+    "les pages",
+    "seront déployées/déroulées"
+  ],
+  "11": [
+    "et quand",
+    "le ciel",
+    "sera retiré"
+  ],
+  "12": [
+    "et quand",
+    "Le Feu Ardent",
+    "sera enflammé ardemment"
+  ],
+  "13": [
+    "et quand",
+    "Le Paradis",
+    "sera rapproché,"
+  ],
+  "14": [
+    "saura",
+    "une âme",
+    "ce qu’",
+    "elle a présentée."
+  ],
+  "15": [
+    "Donc non !",
+    "Je jure",
+    "par ceux qui se retirent,"
+  ],
+  "16": [
+    "qui poursuivent leurs cours,",
+    "qui se cachent,"
+  ],
+  "17": [
+    "et (par) la nuit",
+    "quand",
+    "elle part"
+  ],
+  "18": [
+    "et l’aube",
+    "quand",
+    "elle commence à briller !"
+  ],
+  "19": [
+    "Certes, Il (est)",
+    "certainement (la) parole",
+    "(d’)un Messager",
+    "honorable,"
+  ],
+  "20": [
+    "compagnon",
+    "(de) puissance,",
+    "auprès",
+    "(du) Compagnon",
+    "(du) Trône",
+    "établi,"
+  ],
+  "21": [
+    "quelqu’un qui est obéi",
+    "là-bas,",
+    "à qui la confiance est faite."
+  ],
+  "22": [
+    "Et n’(est) pas",
+    "votre compagnon",
+    "du tout fou."
+  ],
+  "23": [
+    "Et récemment certainement",
+    "il l’a vu",
+    "dans l’horizon",
+    "clair."
+  ],
+  "24": [
+    "Et ne pas",
+    "il (est)",
+    "de",
+    "l’inaperçu",
+    "du tout avare."
+  ],
+  "25": [
+    "Et ne pas",
+    "Il (est)",
+    "du tout (la) parole",
+    "(d’)un démon",
+    "banni."
+  ],
+  "26": [
+    "Où donc",
+    "partez-vous ?"
+  ],
+  "27": [
+    "Ne pas",
+    "Il (est)",
+    "sauf",
+    "un rappel",
+    "pour toutes les générations de chaque créature,"
+  ],
+  "28": [
+    "pour quiconque",
+    "veut",
+    "parmi vous",
+    "qu’",
+    "il aille sur un chemin droit."
+  ],
+  "29": [
+    "Et ne pas",
+    "vous voulez",
+    "sans",
+    "que",
+    "veuille",
+    "Allâh,",
+    "(Le) Maître",
+    "(de) toutes les générations de chaque créature."
+  ]
+}

@@ -1,30 +1,46 @@
-[
-  "Vous distrait",
-  "la compétition en nombre",
-  "jusqu’à-ce que",
-  "vous ayez visité",
-  "les tombes.",
-  "Non, pas du tout !",
-  "Bientôt",
-  "vous saurez !",
-  "Puis",
-  "non, pas du tout !",
-  "Bientôt",
-  "vous saurez !",
-  "Non, pas du tout !",
-  "Si",
-  "vous saviez",
-  "(avec le) savoir",
-  "(de) la certitude.",
-  "Vous verrez très certainement",
-  "Le Feu Ardent.",
-  "Puis",
-  "vous le verrez très certainement",
-  "(avec l’)œil",
-  "(de) la certitude.",
-  "Puis",
-  "vous serez très certainement interrogés",
-  "ce jour-là",
-  "au sujet du",
-  "[le] délice."
-]
+{
+  "1": [
+    "Vous distrait",
+    "la compétition en nombre"
+  ],
+  "2": [
+    "jusqu’à-ce que",
+    "vous ayez visité",
+    "les tombes."
+  ],
+  "3": [
+    "Non, pas du tout !",
+    "Bientôt",
+    "vous saurez !"
+  ],
+  "4": [
+    "Puis",
+    "non, pas du tout !",
+    "Bientôt",
+    "vous saurez !"
+  ],
+  "5": [
+    "Non, pas du tout !",
+    "Si",
+    "vous saviez",
+    "(avec le) savoir",
+    "(de) la certitude."
+  ],
+  "6": [
+    "Vous verrez très certainement",
+    "Le Feu Ardent."
+  ],
+  "7": [
+    "Puis",
+    "vous le verrez très certainement",
+    "(avec l’)œil",
+    "(de) la certitude."
+  ],
+  "8": [
+    "Puis",
+    "vous serez très certainement interrogés",
+    "ce jour-là",
+    "au sujet du",
+    "[le] délice."
+  ]
+}

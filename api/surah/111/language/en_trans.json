@@ -1,25 +1,35 @@
-[
-  "tabbat",
-  "yadā",
-  "abī",
-  "lahabin",
-  "watabba",
-  "mā",
-  "aghnā",
-  "ʿanhu",
-  "māluhu",
-  "wamā",
-  "kasaba",
-  "sayaṣlā",
-  "nāran",
-  "dhāta",
-  "lahabin",
-  "wa-im'ra-atuhu",
-  "ḥammālata",
-  "l-ḥaṭabi",
-  "fī",
-  "jīdihā",
-  "ḥablun",
-  "min",
-  "masadin"
-]
+{
+  "1": [
+    "tabbat",
+    "yadā",
+    "abī",
+    "lahabin",
+    "watabba"
+  ],
+  "2": [
+    "mā",
+    "aghnā",
+    "ʿanhu",
+    "māluhu",
+    "wamā",
+    "kasaba"
+  ],
+  "3": [
+    "sayaṣlā",
+    "nāran",
+    "dhāta",
+    "lahabin"
+  ],
+  "4": [
+    "wa-im'ra-atuhu",
+    "ḥammālata",
+    "l-ḥaṭabi"
+  ],
+  "5": [
+    "fī",
+    "jīdihā",
+    "ḥablun",
+    "min",
+    "masadin"
+  ]
+}

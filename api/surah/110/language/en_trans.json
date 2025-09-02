@@ -1,21 +1,27 @@
-[
-  "idhā",
-  "jāa",
-  "naṣru",
-  "l-lahi",
-  "wal-fatḥu",
-  "wara-ayta",
-  "l-nāsa",
-  "yadkhulūna",
-  "fī",
-  "dīni",
-  "l-lahi",
-  "afwājan",
-  "fasabbiḥ",
-  "biḥamdi",
-  "rabbika",
-  "wa-is'taghfir'hu",
-  "innahu",
-  "kāna",
-  "tawwāban"
-]
+{
+  "1": [
+    "idhā",
+    "jāa",
+    "naṣru",
+    "l-lahi",
+    "wal-fatḥu"
+  ],
+  "2": [
+    "wara-ayta",
+    "l-nāsa",
+    "yadkhulūna",
+    "fī",
+    "dīni",
+    "l-lahi",
+    "afwājan"
+  ],
+  "3": [
+    "fasabbiḥ",
+    "biḥamdi",
+    "rabbika",
+    "wa-is'taghfir'hu",
+    "innahu",
+    "kāna",
+    "tawwāban"
+  ]
+}

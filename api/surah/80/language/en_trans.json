@@ -1,135 +1,219 @@
-[
-  "ʿabasa",
-  "watawallā",
-  "an",
-  "jāahu",
-  "l-aʿmā",
-  "wamā",
-  "yud'rīka",
-  "laʿallahu",
-  "yazzakkā",
-  "aw",
-  "yadhakkaru",
-  "fatanfaʿahu",
-  "l-dhik'rā",
-  "ammā",
-  "mani",
-  "is'taghnā",
-  "fa-anta",
-  "lahu",
-  "taṣaddā",
-  "wamā",
-  "ʿalayka",
-  "allā",
-  "yazzakkā",
-  "wa-ammā",
-  "man",
-  "jāaka",
-  "yasʿā",
-  "wahuwa",
-  "yakhshā",
-  "fa-anta",
-  "ʿanhu",
-  "talahhā",
-  "kallā",
-  "innahā",
-  "tadhkiratun",
-  "faman",
-  "shāa",
-  "dhakarahu",
-  "fī",
-  "ṣuḥufin",
-  "mukarramatin",
-  "marfūʿatin",
-  "muṭahharatin",
-  "bi-aydī",
-  "safaratin",
-  "kirāmin",
-  "bararatin",
-  "qutila",
-  "l-insānu",
-  "mā",
-  "akfarahu",
-  "min",
-  "ayyi",
-  "shayin",
-  "khalaqahu",
-  "min",
-  "nuṭ'fatin",
-  "khalaqahu",
-  "faqaddarahu",
-  "thumma",
-  "l-sabīla",
-  "yassarahu",
-  "thumma",
-  "amātahu",
-  "fa-aqbarahu",
-  "thumma",
-  "idhā",
-  "shāa",
-  "ansharahu",
-  "kallā",
-  "lammā",
-  "yaqḍi",
-  "mā",
-  "amarahu",
-  "falyanẓuri",
-  "l-insānu",
-  "ilā",
-  "ṭaʿāmihi",
-  "annā",
-  "ṣababnā",
-  "l-māa",
-  "ṣabban",
-  "thumma",
-  "shaqaqnā",
-  "l-arḍa",
-  "shaqqan",
-  "fa-anbatnā",
-  "fīhā",
-  "ḥabban",
-  "waʿinaban",
-  "waqaḍban",
-  "wazaytūnan",
-  "wanakhlan",
-  "waḥadāiqa",
-  "ghul'ban",
-  "wafākihatan",
-  "wa-abban",
-  "matāʿan",
-  "lakum",
-  "wali-anʿāmikum",
-  "fa-idhā",
-  "jāati",
-  "l-ṣākhatu",
-  "yawma",
-  "yafirru",
-  "l-maru",
-  "min",
-  "akhīhi",
-  "wa-ummihi",
-  "wa-abīhi",
-  "waṣāḥibatihi",
-  "wabanīhi",
-  "likulli",
-  "im'ri-in",
-  "min'hum",
-  "yawma-idhin",
-  "shanun",
-  "yugh'nīhi",
-  "wujūhun",
-  "yawma-idhin",
-  "mus'firatun",
-  "ḍāḥikatun",
-  "mus'tabshiratun",
-  "wawujūhun",
-  "yawma-idhin",
-  "ʿalayhā",
-  "ghabaratun",
-  "tarhaquhā",
-  "qataratun",
-  "ulāika",
-  "humu",
-  "l-kafaratu",
-  "l-fajaratu"
-]
+{
+  "1": [
+    "ʿabasa",
+    "watawallā"
+  ],
+  "2": [
+    "an",
+    "jāahu",
+    "l-aʿmā"
+  ],
+  "3": [
+    "wamā",
+    "yud'rīka",
+    "laʿallahu",
+    "yazzakkā"
+  ],
+  "4": [
+    "aw",
+    "yadhakkaru",
+    "fatanfaʿahu",
+    "l-dhik'rā"
+  ],
+  "5": [
+    "ammā",
+    "mani",
+    "is'taghnā"
+  ],
+  "6": [
+    "fa-anta",
+    "lahu",
+    "taṣaddā"
+  ],
+  "7": [
+    "wamā",
+    "ʿalayka",
+    "allā",
+    "yazzakkā"
+  ],
+  "8": [
+    "wa-ammā",
+    "man",
+    "jāaka",
+    "yasʿā"
+  ],
+  "9": [
+    "wahuwa",
+    "yakhshā"
+  ],
+  "10": [
+    "fa-anta",
+    "ʿanhu",
+    "talahhā"
+  ],
+  "11": [
+    "kallā",
+    "innahā",
+    "tadhkiratun"
+  ],
+  "12": [
+    "faman",
+    "shāa",
+    "dhakarahu"
+  ],
+  "13": [
+    "fī",
+    "ṣuḥufin",
+    "mukarramatin"
+  ],
+  "14": [
+    "marfūʿatin",
+    "muṭahharatin"
+  ],
+  "15": [
+    "bi-aydī",
+    "safaratin"
+  ],
+  "16": [
+    "kirāmin",
+    "bararatin"
+  ],
+  "17": [
+    "qutila",
+    "l-insānu",
+    "mā",
+    "akfarahu"
+  ],
+  "18": [
+    "min",
+    "ayyi",
+    "shayin",
+    "khalaqahu"
+  ],
+  "19": [
+    "min",
+    "nuṭ'fatin",
+    "khalaqahu",
+    "faqaddarahu"
+  ],
+  "20": [
+    "thumma",
+    "l-sabīla",
+    "yassarahu"
+  ],
+  "21": [
+    "thumma",
+    "amātahu",
+    "fa-aqbarahu"
+  ],
+  "22": [
+    "thumma",
+    "idhā",
+    "shāa",
+    "ansharahu"
+  ],
+  "23": [
+    "kallā",
+    "lammā",
+    "yaqḍi",
+    "mā",
+    "amarahu"
+  ],
+  "24": [
+    "falyanẓuri",
+    "l-insānu",
+    "ilā",
+    "ṭaʿāmihi"
+  ],
+  "25": [
+    "annā",
+    "ṣababnā",
+    "l-māa",
+    "ṣabban"
+  ],
+  "26": [
+    "thumma",
+    "shaqaqnā",
+    "l-arḍa",
+    "shaqqan"
+  ],
+  "27": [
+    "fa-anbatnā",
+    "fīhā",
+    "ḥabban"
+  ],
+  "28": [
+    "waʿinaban",
+    "waqaḍban"
+  ],
+  "29": [
+    "wazaytūnan",
+    "wanakhlan"
+  ],
+  "30": [
+    "waḥadāiqa",
+    "ghul'ban"
+  ],
+  "31": [
+    "wafākihatan",
+    "wa-abban"
+  ],
+  "32": [
+    "matāʿan",
+    "lakum",
+    "wali-anʿāmikum"
+  ],
+  "33": [
+    "fa-idhā",
+    "jāati",
+    "l-ṣākhatu"
+  ],
+  "34": [
+    "yawma",
+    "yafirru",
+    "l-maru",
+    "min",
+    "akhīhi"
+  ],
+  "35": [
+    "wa-ummihi",
+    "wa-abīhi"
+  ],
+  "36": [
+    "waṣāḥibatihi",
+    "wabanīhi"
+  ],
+  "37": [
+    "likulli",
+    "im'ri-in",
+    "min'hum",
+    "yawma-idhin",
+    "shanun",
+    "yugh'nīhi"
+  ],
+  "38": [
+    "wujūhun",
+    "yawma-idhin",
+    "mus'firatun"
+  ],
+  "39": [
+    "ḍāḥikatun",
+    "mus'tabshiratun"
+  ],
+  "40": [
+    "wawujūhun",
+    "yawma-idhin",
+    "ʿalayhā",
+    "ghabaratun"
+  ],
+  "41": [
+    "tarhaquhā",
+    "qataratun"
+  ],
+  "42": [
+    "ulāika",
+    "humu",
+    "l-kafaratu",
+    "l-fajaratu"
+  ]
+}

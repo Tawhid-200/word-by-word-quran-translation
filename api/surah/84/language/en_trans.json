@@ -1,109 +1,159 @@
-[
-  "idhā",
-  "l-samāu",
-  "inshaqqat",
-  "wa-adhinat",
-  "lirabbihā",
-  "waḥuqqat",
-  "wa-idhā",
-  "l-arḍu",
-  "muddat",
-  "wa-alqat",
-  "mā",
-  "fīhā",
-  "watakhallat",
-  "wa-adhinat",
-  "lirabbihā",
-  "waḥuqqat",
-  "yāayyuhā",
-  "l-insānu",
-  "innaka",
-  "kādiḥun",
-  "ilā",
-  "rabbika",
-  "kadḥan",
-  "famulāqīhi",
-  "fa-ammā",
-  "man",
-  "ūtiya",
-  "kitābahu",
-  "biyamīnihi",
-  "fasawfa",
-  "yuḥāsabu",
-  "ḥisāban",
-  "yasīran",
-  "wayanqalibu",
-  "ilā",
-  "ahlihi",
-  "masrūran",
-  "wa-ammā",
-  "man",
-  "ūtiya",
-  "kitābahu",
-  "warāa",
-  "ẓahrihi",
-  "fasawfa",
-  "yadʿū",
-  "thubūran",
-  "wayaṣlā",
-  "saʿīran",
-  "innahu",
-  "kāna",
-  "fī",
-  "ahlihi",
-  "masrūran",
-  "innahu",
-  "ẓanna",
-  "an",
-  "lan",
-  "yaḥūra",
-  "balā",
-  "inna",
-  "rabbahu",
-  "kāna",
-  "bihi",
-  "baṣīran",
-  "falā",
-  "uq'simu",
-  "bil-shafaqi",
-  "wa-al-layli",
-  "wamā",
-  "wasaqa",
-  "wal-qamari",
-  "idhā",
-  "ittasaqa",
-  "latarkabunna",
-  "ṭabaqan",
-  "ʿan",
-  "ṭabaqin",
-  "famā",
-  "lahum",
-  "lā",
-  "yu'minūna",
-  "wa-idhā",
-  "quri-a",
-  "ʿalayhimu",
-  "l-qur'ānu",
-  "lā",
-  "yasjudūna",
-  "bali",
-  "alladhīna",
-  "kafarū",
-  "yukadhibūna",
-  "wal-lahu",
-  "aʿlamu",
-  "bimā",
-  "yūʿūna",
-  "fabashir'hum",
-  "biʿadhābin",
-  "alīmin",
-  "illā",
-  "alladhīna",
-  "āmanū",
-  "waʿamilū",
-  "l-ṣāliḥāti",
-  "lahum",
-  "ajrun",
-  "ghayru",
-  "mamnūnin"
-]
+{
+  "1": [
+    "idhā",
+    "l-samāu",
+    "inshaqqat"
+  ],
+  "2": [
+    "wa-adhinat",
+    "lirabbihā",
+    "waḥuqqat"
+  ],
+  "3": [
+    "wa-idhā",
+    "l-arḍu",
+    "muddat"
+  ],
+  "4": [
+    "wa-alqat",
+    "mā",
+    "fīhā",
+    "watakhallat"
+  ],
+  "5": [
+    "wa-adhinat",
+    "lirabbihā",
+    "waḥuqqat"
+  ],
+  "6": [
+    "yāayyuhā",
+    "l-insānu",
+    "innaka",
+    "kādiḥun",
+    "ilā",
+    "rabbika",
+    "kadḥan",
+    "famulāqīhi"
+  ],
+  "7": [
+    "fa-ammā",
+    "man",
+    "ūtiya",
+    "kitābahu",
+    "biyamīnihi"
+  ],
+  "8": [
+    "fasawfa",
+    "yuḥāsabu",
+    "ḥisāban",
+    "yasīran"
+  ],
+  "9": [
+    "wayanqalibu",
+    "ilā",
+    "ahlihi",
+    "masrūran"
+  ],
+  "10": [
+    "wa-ammā",
+    "man",
+    "ūtiya",
+    "kitābahu",
+    "warāa",
+    "ẓahrihi"
+  ],
+  "11": [
+    "fasawfa",
+    "yadʿū",
+    "thubūran"
+  ],
+  "12": [
+    "wayaṣlā",
+    "saʿīran"
+  ],
+  "13": [
+    "innahu",
+    "kāna",
+    "fī",
+    "ahlihi",
+    "masrūran"
+  ],
+  "14": [
+    "innahu",
+    "ẓanna",
+    "an",
+    "lan",
+    "yaḥūra"
+  ],
+  "15": [
+    "balā",
+    "inna",
+    "rabbahu",
+    "kāna",
+    "bihi",
+    "baṣīran"
+  ],
+  "16": [
+    "falā",
+    "uq'simu",
+    "bil-shafaqi"
+  ],
+  "17": [
+    "wa-al-layli",
+    "wamā",
+    "wasaqa"
+  ],
+  "18": [
+    "wal-qamari",
+    "idhā",
+    "ittasaqa"
+  ],
+  "19": [
+    "latarkabunna",
+    "ṭabaqan",
+    "ʿan",
+    "ṭabaqin"
+  ],
+  "20": [
+    "famā",
+    "lahum",
+    "lā",
+    "yu'minūna"
+  ],
+  "21": [
+    "wa-idhā",
+    "quri-a",
+    "ʿalayhimu",
+    "l-qur'ānu",
+    "lā",
+    "yasjudūna"
+  ],
+  "22": [
+    "bali",
+    "alladhīna",
+    "kafarū",
+    "yukadhibūna"
+  ],
+  "23": [
+    "wal-lahu",
+    "aʿlamu",
+    "bimā",
+    "yūʿūna"
+  ],
+  "24": [
+    "fabashir'hum",
+    "biʿadhābin",
+    "alīmin"
+  ],
+  "25": [
+    "illā",
+    "alladhīna",
+    "āmanū",
+    "waʿamilū",
+    "l-ṣāliḥāti",
+    "lahum",
+    "ajrun",
+    "ghayru",
+    "mamnūnin"
+  ]
+}

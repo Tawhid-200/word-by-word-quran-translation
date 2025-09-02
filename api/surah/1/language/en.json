@@ -1,31 +1,45 @@
-[
-  "In (the) name",
-  "(of) Allah",
-  "the Most Gracious",
-  "the Most Merciful",
-  "All praises and thanks",
-  "(be) to Allah",
-  "(the) Lord",
-  "(of all) the worlds",
-  "The Most Gracious",
-  "the Most Merciful",
-  "Master",
-  "(of the) Day",
-  "(of) [the] Judgment",
-  "You Alone",
-  "we worship",
-  "and You Alone",
-  "we ask for help",
-  "Guide us",
-  "(to) the path",
-  "the straight",
-  "(The) path",
-  "(of) those",
-  "You have bestowed (Your) Favors",
-  "on them",
-  "not (of)",
-  "those who earned (Your) wrath",
-  "on themselves",
-  "and not",
-  "(of) those who go astray"
-]
+{
+  "1": [
+    "In (the) name",
+    "(of) Allah",
+    "the Most Gracious",
+    "the Most Merciful"
+  ],
+  "2": [
+    "All praises and thanks",
+    "(be) to Allah",
+    "(the) Lord",
+    "(of all) the worlds"
+  ],
+  "3": [
+    "The Most Gracious",
+    "the Most Merciful"
+  ],
+  "4": [
+    "Master",
+    "(of the) Day",
+    "(of) [the] Judgment"
+  ],
+  "5": [
+    "You Alone",
+    "we worship",
+    "and You Alone",
+    "we ask for help"
+  ],
+  "6": [
+    "Guide us",
+    "(to) the path",
+    "the straight"
+  ],
+  "7": [
+    "(The) path",
+    "(of) those",
+    "You have bestowed (Your) Favors",
+    "on them",
+    "not (of)",
+    "those who earned (Your) wrath",
+    "on themselves",
+    "and not",
+    "(of) those who go astray"
+  ]
+}

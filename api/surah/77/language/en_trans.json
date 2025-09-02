@@ -1,183 +1,283 @@
-[
-  "wal-mur'salāti",
-  "ʿur'fan",
-  "fal-ʿāṣifāti",
-  "ʿaṣfan",
-  "wal-nāshirāti",
-  "nashran",
-  "fal-fāriqāti",
-  "farqan",
-  "fal-mul'qiyāti",
-  "dhik'ran",
-  "ʿudh'ran",
-  "aw",
-  "nudh'ran",
-  "innamā",
-  "tūʿadūna",
-  "lawāqiʿun",
-  "fa-idhā",
-  "l-nujūmu",
-  "ṭumisat",
-  "wa-idhā",
-  "l-samāu",
-  "furijat",
-  "wa-idhā",
-  "l-jibālu",
-  "nusifat",
-  "wa-idhā",
-  "l-rusulu",
-  "uqqitat",
-  "li-ayyi",
-  "yawmin",
-  "ujjilat",
-  "liyawmi",
-  "l-faṣli",
-  "wamā",
-  "adrāka",
-  "mā",
-  "yawmu",
-  "l-faṣli",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "alam",
-  "nuh'liki",
-  "l-awalīna",
-  "thumma",
-  "nut'biʿuhumu",
-  "l-ākhirīna",
-  "kadhālika",
-  "nafʿalu",
-  "bil-muj'rimīna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "alam",
-  "nakhluqkkum",
-  "min",
-  "māin",
-  "mahīnin",
-  "fajaʿalnāhu",
-  "fī",
-  "qarārin",
-  "makīnin",
-  "ilā",
-  "qadarin",
-  "maʿlūmin",
-  "faqadarnā",
-  "faniʿ'ma",
-  "l-qādirūna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "alam",
-  "najʿali",
-  "l-arḍa",
-  "kifātan",
-  "aḥyāan",
-  "wa-amwātan",
-  "wajaʿalnā",
-  "fīhā",
-  "rawāsiya",
-  "shāmikhātin",
-  "wa-asqaynākum",
-  "māan",
-  "furātan",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "inṭaliqū",
-  "ilā",
-  "mā",
-  "kuntum",
-  "bihi",
-  "tukadhibūna",
-  "inṭaliqū",
-  "ilā",
-  "ẓillin",
-  "dhī",
-  "thalāthi",
-  "shuʿabin",
-  "lā",
-  "ẓalīlin",
-  "walā",
-  "yugh'nī",
-  "mina",
-  "l-lahabi",
-  "innahā",
-  "tarmī",
-  "bishararin",
-  "kal-qaṣri",
-  "ka-annahu",
-  "jimālatun",
-  "ṣuf'run",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "hādhā",
-  "yawmu",
-  "lā",
-  "yanṭiqūna",
-  "walā",
-  "yu'dhanu",
-  "lahum",
-  "fayaʿtadhirūna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "hādhā",
-  "yawmu",
-  "l-faṣli",
-  "jamaʿnākum",
-  "wal-awalīna",
-  "fa-in",
-  "kāna",
-  "lakum",
-  "kaydun",
-  "fakīdūni",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "inna",
-  "l-mutaqīna",
-  "fī",
-  "ẓilālin",
-  "waʿuyūnin",
-  "wafawākiha",
-  "mimmā",
-  "yashtahūna",
-  "kulū",
-  "wa-ish'rabū",
-  "hanīan",
-  "bimā",
-  "kuntum",
-  "taʿmalūna",
-  "innā",
-  "kadhālika",
-  "najzī",
-  "l-muḥ'sinīna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "kulū",
-  "watamattaʿū",
-  "qalīlan",
-  "innakum",
-  "muj'rimūna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "wa-idhā",
-  "qīla",
-  "lahumu",
-  "ir'kaʿū",
-  "lā",
-  "yarkaʿūna",
-  "waylun",
-  "yawma-idhin",
-  "lil'mukadhibīna",
-  "fabi-ayyi",
-  "ḥadīthin",
-  "baʿdahu",
-  "yu'minūna"
-]
+{
+  "1": [
+    "wal-mur'salāti",
+    "ʿur'fan"
+  ],
+  "2": [
+    "fal-ʿāṣifāti",
+    "ʿaṣfan"
+  ],
+  "3": [
+    "wal-nāshirāti",
+    "nashran"
+  ],
+  "4": [
+    "fal-fāriqāti",
+    "farqan"
+  ],
+  "5": [
+    "fal-mul'qiyāti",
+    "dhik'ran"
+  ],
+  "6": [
+    "ʿudh'ran",
+    "aw",
+    "nudh'ran"
+  ],
+  "7": [
+    "innamā",
+    "tūʿadūna",
+    "lawāqiʿun"
+  ],
+  "8": [
+    "fa-idhā",
+    "l-nujūmu",
+    "ṭumisat"
+  ],
+  "9": [
+    "wa-idhā",
+    "l-samāu",
+    "furijat"
+  ],
+  "10": [
+    "wa-idhā",
+    "l-jibālu",
+    "nusifat"
+  ],
+  "11": [
+    "wa-idhā",
+    "l-rusulu",
+    "uqqitat"
+  ],
+  "12": [
+    "li-ayyi",
+    "yawmin",
+    "ujjilat"
+  ],
+  "13": [
+    "liyawmi",
+    "l-faṣli"
+  ],
+  "14": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "yawmu",
+    "l-faṣli"
+  ],
+  "15": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "16": [
+    "alam",
+    "nuh'liki",
+    "l-awalīna"
+  ],
+  "17": [
+    "thumma",
+    "nut'biʿuhumu",
+    "l-ākhirīna"
+  ],
+  "18": [
+    "kadhālika",
+    "nafʿalu",
+    "bil-muj'rimīna"
+  ],
+  "19": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "20": [
+    "alam",
+    "nakhluqkkum",
+    "min",
+    "māin",
+    "mahīnin"
+  ],
+  "21": [
+    "fajaʿalnāhu",
+    "fī",
+    "qarārin",
+    "makīnin"
+  ],
+  "22": [
+    "ilā",
+    "qadarin",
+    "maʿlūmin"
+  ],
+  "23": [
+    "faqadarnā",
+    "faniʿ'ma",
+    "l-qādirūna"
+  ],
+  "24": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "25": [
+    "alam",
+    "najʿali",
+    "l-arḍa",
+    "kifātan"
+  ],
+  "26": [
+    "aḥyāan",
+    "wa-amwātan"
+  ],
+  "27": [
+    "wajaʿalnā",
+    "fīhā",
+    "rawāsiya",
+    "shāmikhātin",
+    "wa-asqaynākum",
+    "māan",
+    "furātan"
+  ],
+  "28": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "29": [
+    "inṭaliqū",
+    "ilā",
+    "mā",
+    "kuntum",
+    "bihi",
+    "tukadhibūna"
+  ],
+  "30": [
+    "inṭaliqū",
+    "ilā",
+    "ẓillin",
+    "dhī",
+    "thalāthi",
+    "shuʿabin"
+  ],
+  "31": [
+    "lā",
+    "ẓalīlin",
+    "walā",
+    "yugh'nī",
+    "mina",
+    "l-lahabi"
+  ],
+  "32": [
+    "innahā",
+    "tarmī",
+    "bishararin",
+    "kal-qaṣri"
+  ],
+  "33": [
+    "ka-annahu",
+    "jimālatun",
+    "ṣuf'run"
+  ],
+  "34": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "35": [
+    "hādhā",
+    "yawmu",
+    "lā",
+    "yanṭiqūna"
+  ],
+  "36": [
+    "walā",
+    "yu'dhanu",
+    "lahum",
+    "fayaʿtadhirūna"
+  ],
+  "37": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "38": [
+    "hādhā",
+    "yawmu",
+    "l-faṣli",
+    "jamaʿnākum",
+    "wal-awalīna"
+  ],
+  "39": [
+    "fa-in",
+    "kāna",
+    "lakum",
+    "kaydun",
+    "fakīdūni"
+  ],
+  "40": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "41": [
+    "inna",
+    "l-mutaqīna",
+    "fī",
+    "ẓilālin",
+    "waʿuyūnin"
+  ],
+  "42": [
+    "wafawākiha",
+    "mimmā",
+    "yashtahūna"
+  ],
+  "43": [
+    "kulū",
+    "wa-ish'rabū",
+    "hanīan",
+    "bimā",
+    "kuntum",
+    "taʿmalūna"
+  ],
+  "44": [
+    "innā",
+    "kadhālika",
+    "najzī",
+    "l-muḥ'sinīna"
+  ],
+  "45": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "46": [
+    "kulū",
+    "watamattaʿū",
+    "qalīlan",
+    "innakum",
+    "muj'rimūna"
+  ],
+  "47": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "48": [
+    "wa-idhā",
+    "qīla",
+    "lahumu",
+    "ir'kaʿū",
+    "lā",
+    "yarkaʿūna"
+  ],
+  "49": [
+    "waylun",
+    "yawma-idhin",
+    "lil'mukadhibīna"
+  ],
+  "50": [
+    "fabi-ayyi",
+    "ḥadīthin",
+    "baʿdahu",
+    "yu'minūna"
+  ]
+}

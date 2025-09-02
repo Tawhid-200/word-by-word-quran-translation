@@ -1,38 +1,54 @@
-[
-  "idhā",
-  "zul'zilati",
-  "l-arḍu",
-  "zil'zālahā",
-  "wa-akhrajati",
-  "l-arḍu",
-  "athqālahā",
-  "waqāla",
-  "l-insānu",
-  "mā",
-  "lahā",
-  "yawma-idhin",
-  "tuḥaddithu",
-  "akhbārahā",
-  "bi-anna",
-  "rabbaka",
-  "awḥā",
-  "lahā",
-  "yawma-idhin",
-  "yaṣduru",
-  "l-nāsu",
-  "ashtātan",
-  "liyuraw",
-  "aʿmālahum",
-  "faman",
-  "yaʿmal",
-  "mith'qāla",
-  "dharratin",
-  "khayran",
-  "yarahu",
-  "waman",
-  "yaʿmal",
-  "mith'qāla",
-  "dharratin",
-  "sharran",
-  "yarahu"
-]
+{
+  "1": [
+    "idhā",
+    "zul'zilati",
+    "l-arḍu",
+    "zil'zālahā"
+  ],
+  "2": [
+    "wa-akhrajati",
+    "l-arḍu",
+    "athqālahā"
+  ],
+  "3": [
+    "waqāla",
+    "l-insānu",
+    "mā",
+    "lahā"
+  ],
+  "4": [
+    "yawma-idhin",
+    "tuḥaddithu",
+    "akhbārahā"
+  ],
+  "5": [
+    "bi-anna",
+    "rabbaka",
+    "awḥā",
+    "lahā"
+  ],
+  "6": [
+    "yawma-idhin",
+    "yaṣduru",
+    "l-nāsu",
+    "ashtātan",
+    "liyuraw",
+    "aʿmālahum"
+  ],
+  "7": [
+    "faman",
+    "yaʿmal",
+    "mith'qāla",
+    "dharratin",
+    "khayran",
+    "yarahu"
+  ],
+  "8": [
+    "waman",
+    "yaʿmal",
+    "mith'qāla",
+    "dharratin",
+    "sharran",
+    "yarahu"
+  ]
+}

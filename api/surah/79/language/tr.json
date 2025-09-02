@@ -1,181 +1,273 @@
-[
-  "andolsun söküp çıkaranlara",
-  "şiddetle",
-  "ve çekip alanlara",
-  "usulca",
-  "yüzüp gidenlere",
-  "yüzerek",
-  "yarışıp geçenlere",
-  "yarışarak",
-  "derken düzenleyenlere",
-  "işi",
-  "o gün",
-  "sarsar",
-  "o sarsıntı",
-  "takip eder",
-  "ardından (başka gürültü)",
-  "yürekler",
-  "o gün",
-  "çarpar",
-  "gözleri",
-  "(korkudan) aşağı kayar",
-  "diyorlar ki",
-  "biz yine",
-  "döndürülecek (miyiz?)",
-  "eski halimize",
-  "*",
-  "sonra ha?",
-  "biz olduktan",
-  "kemikler",
-  "çürümüş",
-  "dediler",
-  "bu",
-  "öyle ise",
-  "bir dönüştür",
-  "ziyanlı",
-  "halbuki",
-  "O",
-  "haykırıştır",
-  "bir tek",
-  "hemen",
-  "onlar",
-  "uyanıklık alanındadırlar",
-  "sana geldimi?",
-  "*",
-  "haberi",
-  "Musa'nın",
-  "hani",
-  "ona seslenmişti",
-  "Rabbi",
-  "vadi'de",
-  "kutsal",
-  "Tuva'da",
-  "git",
-  "Fir'avn'a",
-  "*",
-  "çünkü o",
-  "azdı",
-  "de ki",
-  "istermisin?",
-  "*",
-  "arınmayı",
-  "*",
-  "*",
-  "ve seni ileteyim",
-  "Rabbine",
-  "*",
-  "O'ndan korkasın",
-  "sonra ona gösterdi",
-  "mu'cizeyi",
-  "büyük",
-  "fakat o yalanladı",
-  "ve karşı geldi",
-  "sonra",
-  "sırtını döndü",
-  "çalışmağa koyuldu",
-  "topladı",
-  "ve bağırdı",
-  "ve dedi",
-  "ben",
-  "sizi Rabbinizim",
-  "en yüce",
-  "onu cezalandırdı",
-  "Allah",
-  "azabıyle",
-  "sonun",
-  "ve ilkin",
-  "şüphesiz",
-  "vardır",
-  "bunda",
-  "elbette ibret(ler)",
-  "kimseler için",
-  "korkacak",
-  "siz mi?",
-  "daha çetinsiniz",
-  "yaratılışça",
-  "yoksa",
-  "gök (mü?)",
-  "(Allah) onu yaptı",
-  "yükseltti",
-  "kalınlığını",
-  "onu düzenledi",
-  "örtüp kararttı",
-  "gecesini",
-  "ve açığa çıkardı",
-  "kuşluğunu",
-  "ve yeri",
-  "sonra da",
-  "bundan",
-  "yayıp yuvarlattı",
-  "çıkardı",
-  "ondan",
-  "suyunu",
-  "ve otlağını",
-  "ve dağları",
-  "oturttu",
-  "(bunlar) geçimidir",
-  "sizin için",
-  "ve hayvanlarınız için",
-  "zaman",
-  "geldiği",
-  "herşeyi bastıran o felaket",
-  "büyük",
-  "o gün",
-  "hatırlar",
-  "insan",
-  "neye",
-  "çalıştığını",
-  "ve ortaya çıkarılmıştır",
-  "cehennem",
-  "kimseler için",
-  "gören",
-  "artık",
-  "kim",
-  "azmışsa",
-  "ve yeğlemişse",
-  "hayatını",
-  "dünya",
-  "elbette",
-  "cehennemdir",
-  "onun",
-  "barınağı",
-  "ama",
-  "kim",
-  "korkmuşsa",
-  "divanında durmaktan",
-  "Rabbinin",
-  "ve men'etmişse",
-  "nefsi(ni)",
-  "0",
-  "kötü heves(ler)-",
-  "cennettir",
-  "*",
-  "onun",
-  "barınağı",
-  "sana soruyorlar",
-  "sa'atten",
-  "*",
-  "ne zaman?",
-  "demir atacak",
-  "ne (bilirsin)?",
-  "sen",
-  "onun söyleyesin",
-  "*",
-  "aittir",
-  "Rabbine",
-  "onun bilgisi",
-  "ancak",
-  "sen",
-  "uyarıcısın",
-  "olanları",
-  "ondan korkacak",
-  "onlar sanki gibidir",
-  "gün",
-  "onu gördükleri",
-  "(dünyada) kalmamışlar",
-  "*",
-  "başka",
-  "bir akşamdan",
-  "veya",
-  "onun kuşluk vaktinden"
-]
+{
+  "1": [
+    "andolsun söküp çıkaranlara",
+    "şiddetle"
+  ],
+  "2": [
+    "ve çekip alanlara",
+    "usulca"
+  ],
+  "3": [
+    "yüzüp gidenlere",
+    "yüzerek"
+  ],
+  "4": [
+    "yarışıp geçenlere",
+    "yarışarak"
+  ],
+  "5": [
+    "derken düzenleyenlere",
+    "işi"
+  ],
+  "6": [
+    "o gün",
+    "sarsar",
+    "o sarsıntı"
+  ],
+  "7": [
+    "takip eder",
+    "ardından (başka gürültü)"
+  ],
+  "8": [
+    "yürekler",
+    "o gün",
+    "çarpar"
+  ],
+  "9": [
+    "gözleri",
+    "(korkudan) aşağı kayar"
+  ],
+  "10": [
+    "diyorlar ki",
+    "biz yine",
+    "döndürülecek (miyiz?)",
+    "eski halimize",
+    "*"
+  ],
+  "11": [
+    "sonra ha?",
+    "biz olduktan",
+    "kemikler",
+    "çürümüş"
+  ],
+  "12": [
+    "dediler",
+    "bu",
+    "öyle ise",
+    "bir dönüştür",
+    "ziyanlı"
+  ],
+  "13": [
+    "halbuki",
+    "O",
+    "haykırıştır",
+    "bir tek"
+  ],
+  "14": [
+    "hemen",
+    "onlar",
+    "uyanıklık alanındadırlar"
+  ],
+  "15": [
+    "sana geldimi?",
+    "*",
+    "haberi",
+    "Musa'nın"
+  ],
+  "16": [
+    "hani",
+    "ona seslenmişti",
+    "Rabbi",
+    "vadi'de",
+    "kutsal",
+    "Tuva'da"
+  ],
+  "17": [
+    "git",
+    "Fir'avn'a",
+    "*",
+    "çünkü o",
+    "azdı"
+  ],
+  "18": [
+    "de ki",
+    "istermisin?",
+    "*",
+    "arınmayı",
+    "*",
+    "*"
+  ],
+  "19": [
+    "ve seni ileteyim",
+    "Rabbine",
+    "*",
+    "O'ndan korkasın"
+  ],
+  "20": [
+    "sonra ona gösterdi",
+    "mu'cizeyi",
+    "büyük"
+  ],
+  "21": [
+    "fakat o yalanladı",
+    "ve karşı geldi"
+  ],
+  "22": [
+    "sonra",
+    "sırtını döndü",
+    "çalışmağa koyuldu"
+  ],
+  "23": [
+    "topladı",
+    "ve bağırdı"
+  ],
+  "24": [
+    "ve dedi",
+    "ben",
+    "sizi Rabbinizim",
+    "en yüce"
+  ],
+  "25": [
+    "onu cezalandırdı",
+    "Allah",
+    "azabıyle",
+    "sonun",
+    "ve ilkin"
+  ],
+  "26": [
+    "şüphesiz",
+    "vardır",
+    "bunda",
+    "elbette ibret(ler)",
+    "kimseler için",
+    "korkacak"
+  ],
+  "27": [
+    "siz mi?",
+    "daha çetinsiniz",
+    "yaratılışça",
+    "yoksa",
+    "gök (mü?)",
+    "(Allah) onu yaptı"
+  ],
+  "28": [
+    "yükseltti",
+    "kalınlığını",
+    "onu düzenledi"
+  ],
+  "29": [
+    "örtüp kararttı",
+    "gecesini",
+    "ve açığa çıkardı",
+    "kuşluğunu"
+  ],
+  "30": [
+    "ve yeri",
+    "sonra da",
+    "bundan",
+    "yayıp yuvarlattı"
+  ],
+  "31": [
+    "çıkardı",
+    "ondan",
+    "suyunu",
+    "ve otlağını"
+  ],
+  "32": [
+    "ve dağları",
+    "oturttu"
+  ],
+  "33": [
+    "(bunlar) geçimidir",
+    "sizin için",
+    "ve hayvanlarınız için"
+  ],
+  "34": [
+    "zaman",
+    "geldiği",
+    "herşeyi bastıran o felaket",
+    "büyük"
+  ],
+  "35": [
+    "o gün",
+    "hatırlar",
+    "insan",
+    "neye",
+    "çalıştığını"
+  ],
+  "36": [
+    "ve ortaya çıkarılmıştır",
+    "cehennem",
+    "kimseler için",
+    "gören"
+  ],
+  "37": [
+    "artık",
+    "kim",
+    "azmışsa"
+  ],
+  "38": [
+    "ve yeğlemişse",
+    "hayatını",
+    "dünya"
+  ],
+  "39": [
+    "elbette",
+    "cehennemdir",
+    "onun",
+    "barınağı"
+  ],
+  "40": [
+    "ama",
+    "kim",
+    "korkmuşsa",
+    "divanında durmaktan",
+    "Rabbinin",
+    "ve men'etmişse",
+    "nefsi(ni)",
+    "0",
+    "kötü heves(ler)-"
+  ],
+  "41": [
+    "cennettir",
+    "*",
+    "onun",
+    "barınağı"
+  ],
+  "42": [
+    "sana soruyorlar",
+    "sa'atten",
+    "*",
+    "ne zaman?",
+    "demir atacak"
+  ],
+  "43": [
+    "ne (bilirsin)?",
+    "sen",
+    "onun söyleyesin",
+    "*"
+  ],
+  "44": [
+    "aittir",
+    "Rabbine",
+    "onun bilgisi"
+  ],
+  "45": [
+    "ancak",
+    "sen",
+    "uyarıcısın",
+    "olanları",
+    "ondan korkacak"
+  ],
+  "46": [
+    "onlar sanki gibidir",
+    "gün",
+    "onu gördükleri",
+    "(dünyada) kalmamışlar",
+    "*",
+    "başka",
+    "bir akşamdan",
+    "veya",
+    "onun kuşluk vaktinden"
+  ]
+}

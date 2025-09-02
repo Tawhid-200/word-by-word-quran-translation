@@ -1,29 +1,45 @@
-[
-  "alam",
-  "nashraḥ",
-  "laka",
-  "ṣadraka",
-  "wawaḍaʿnā",
-  "ʿanka",
-  "wiz'raka",
-  "alladhī",
-  "anqaḍa",
-  "ẓahraka",
-  "warafaʿnā",
-  "laka",
-  "dhik'raka",
-  "fa-inna",
-  "maʿa",
-  "l-ʿus'ri",
-  "yus'ran",
-  "inna",
-  "maʿa",
-  "l-ʿus'ri",
-  "yus'ran",
-  "fa-idhā",
-  "faraghta",
-  "fa-inṣab",
-  "wa-ilā",
-  "rabbika",
-  "fa-ir'ghab"
-]
+{
+  "1": [
+    "alam",
+    "nashraḥ",
+    "laka",
+    "ṣadraka"
+  ],
+  "2": [
+    "wawaḍaʿnā",
+    "ʿanka",
+    "wiz'raka"
+  ],
+  "3": [
+    "alladhī",
+    "anqaḍa",
+    "ẓahraka"
+  ],
+  "4": [
+    "warafaʿnā",
+    "laka",
+    "dhik'raka"
+  ],
+  "5": [
+    "fa-inna",
+    "maʿa",
+    "l-ʿus'ri",
+    "yus'ran"
+  ],
+  "6": [
+    "inna",
+    "maʿa",
+    "l-ʿus'ri",
+    "yus'ran"
+  ],
+  "7": [
+    "fa-idhā",
+    "faraghta",
+    "fa-inṣab"
+  ],
+  "8": [
+    "wa-ilā",
+    "rabbika",
+    "fa-ir'ghab"
+  ]
+}

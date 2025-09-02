@@ -1,35 +1,53 @@
-[
-  "kecelakaan",
-  "bagi setiap",
-  "pengumpat",
-  "pencela",
-  "yang",
-  "mengumpulkan",
-  "harta",
-  "dan dia menghitungnya",
-  "dia mengira",
-  "bahwasanya",
-  "hartanya",
-  "mengekalkannya",
-  "sekali-kali tidak",
-  "sungguh dia akan dilemparkan",
-  "dalam",
-  "Hutamah",
-  "dan apakah",
-  "kamu tahu",
-  "apa",
-  "Hutamah",
-  "api",
-  "Allah",
-  "dinyalakan",
-  "yang",
-  "naik",
-  "ke atas/sampai",
-  "hati",
-  "sesungguhnya ia (api)",
-  "atas mereka",
-  "terikat/ditutup rapat",
-  "dalam/pada",
-  "tiang",
-  "panjang"
-]
+{
+  "1": [
+    "kecelakaan",
+    "bagi setiap",
+    "pengumpat",
+    "pencela"
+  ],
+  "2": [
+    "yang",
+    "mengumpulkan",
+    "harta",
+    "dan dia menghitungnya"
+  ],
+  "3": [
+    "dia mengira",
+    "bahwasanya",
+    "hartanya",
+    "mengekalkannya"
+  ],
+  "4": [
+    "sekali-kali tidak",
+    "sungguh dia akan dilemparkan",
+    "dalam",
+    "Hutamah"
+  ],
+  "5": [
+    "dan apakah",
+    "kamu tahu",
+    "apa",
+    "Hutamah"
+  ],
+  "6": [
+    "api",
+    "Allah",
+    "dinyalakan"
+  ],
+  "7": [
+    "yang",
+    "naik",
+    "ke atas/sampai",
+    "hati"
+  ],
+  "8": [
+    "sesungguhnya ia (api)",
+    "atas mereka",
+    "terikat/ditutup rapat"
+  ],
+  "9": [
+    "dalam/pada",
+    "tiang",
+    "panjang"
+  ]
+}

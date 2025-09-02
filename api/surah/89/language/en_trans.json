@@ -1,139 +1,199 @@
-[
-  "wal-fajri",
-  "walayālin",
-  "ʿashrin",
-  "wal-shafʿi",
-  "wal-watri",
-  "wa-al-layli",
-  "idhā",
-  "yasri",
-  "hal",
-  "fī",
-  "dhālika",
-  "qasamun",
-  "lidhī",
-  "ḥij'rin",
-  "alam",
-  "tara",
-  "kayfa",
-  "faʿala",
-  "rabbuka",
-  "biʿādin",
-  "irama",
-  "dhāti",
-  "l-ʿimādi",
-  "allatī",
-  "lam",
-  "yukh'laq",
-  "mith'luhā",
-  "fī",
-  "l-bilādi",
-  "wathamūda",
-  "alladhīna",
-  "jābū",
-  "l-ṣakhra",
-  "bil-wādi",
-  "wafir'ʿawna",
-  "dhī",
-  "l-awtādi",
-  "alladhīna",
-  "ṭaghaw",
-  "fī",
-  "l-bilādi",
-  "fa-aktharū",
-  "fīhā",
-  "l-fasāda",
-  "faṣabba",
-  "ʿalayhim",
-  "rabbuka",
-  "sawṭa",
-  "ʿadhābin",
-  "inna",
-  "rabbaka",
-  "labil-mir'ṣādi",
-  "fa-ammā",
-  "l-insānu",
-  "idhā",
-  "mā",
-  "ib'talāhu",
-  "rabbuhu",
-  "fa-akramahu",
-  "wanaʿʿamahu",
-  "fayaqūlu",
-  "rabbī",
-  "akramani",
-  "wa-ammā",
-  "idhā",
-  "mā",
-  "ib'talāhu",
-  "faqadara",
-  "ʿalayhi",
-  "riz'qahu",
-  "fayaqūlu",
-  "rabbī",
-  "ahānani",
-  "kallā",
-  "bal",
-  "lā",
-  "tuk'rimūna",
-  "l-yatīma",
-  "walā",
-  "taḥāḍḍūna",
-  "ʿalā",
-  "ṭaʿāmi",
-  "l-mis'kīni",
-  "watakulūna",
-  "l-turātha",
-  "aklan",
-  "lamman",
-  "watuḥibbūna",
-  "l-māla",
-  "ḥubban",
-  "jamman",
-  "kallā",
-  "idhā",
-  "dukkati",
-  "l-arḍu",
-  "dakkan",
-  "dakkan",
-  "wajāa",
-  "rabbuka",
-  "wal-malaku",
-  "ṣaffan",
-  "ṣaffan",
-  "wajīa",
-  "yawma-idhin",
-  "bijahannama",
-  "yawma-idhin",
-  "yatadhakkaru",
-  "l-insānu",
-  "wa-annā",
-  "lahu",
-  "l-dhik'rā",
-  "yaqūlu",
-  "yālaytanī",
-  "qaddamtu",
-  "liḥayātī",
-  "fayawma-idhin",
-  "lā",
-  "yuʿadhibu",
-  "ʿadhābahu",
-  "aḥadun",
-  "walā",
-  "yūthiqu",
-  "wathāqahu",
-  "aḥadun",
-  "yāayyatuhā",
-  "l-nafsu",
-  "l-muṭ'ma-inatu",
-  "ir'jiʿī",
-  "ilā",
-  "rabbiki",
-  "rāḍiyatan",
-  "marḍiyyatan",
-  "fa-ud'khulī",
-  "fī",
-  "ʿibādī",
-  "wa-ud'khulī",
-  "jannatī"
-]
+{
+  "1": [
+    "wal-fajri"
+  ],
+  "2": [
+    "walayālin",
+    "ʿashrin"
+  ],
+  "3": [
+    "wal-shafʿi",
+    "wal-watri"
+  ],
+  "4": [
+    "wa-al-layli",
+    "idhā",
+    "yasri"
+  ],
+  "5": [
+    "hal",
+    "fī",
+    "dhālika",
+    "qasamun",
+    "lidhī",
+    "ḥij'rin"
+  ],
+  "6": [
+    "alam",
+    "tara",
+    "kayfa",
+    "faʿala",
+    "rabbuka",
+    "biʿādin"
+  ],
+  "7": [
+    "irama",
+    "dhāti",
+    "l-ʿimādi"
+  ],
+  "8": [
+    "allatī",
+    "lam",
+    "yukh'laq",
+    "mith'luhā",
+    "fī",
+    "l-bilādi"
+  ],
+  "9": [
+    "wathamūda",
+    "alladhīna",
+    "jābū",
+    "l-ṣakhra",
+    "bil-wādi"
+  ],
+  "10": [
+    "wafir'ʿawna",
+    "dhī",
+    "l-awtādi"
+  ],
+  "11": [
+    "alladhīna",
+    "ṭaghaw",
+    "fī",
+    "l-bilādi"
+  ],
+  "12": [
+    "fa-aktharū",
+    "fīhā",
+    "l-fasāda"
+  ],
+  "13": [
+    "faṣabba",
+    "ʿalayhim",
+    "rabbuka",
+    "sawṭa",
+    "ʿadhābin"
+  ],
+  "14": [
+    "inna",
+    "rabbaka",
+    "labil-mir'ṣādi"
+  ],
+  "15": [
+    "fa-ammā",
+    "l-insānu",
+    "idhā",
+    "mā",
+    "ib'talāhu",
+    "rabbuhu",
+    "fa-akramahu",
+    "wanaʿʿamahu",
+    "fayaqūlu",
+    "rabbī",
+    "akramani"
+  ],
+  "16": [
+    "wa-ammā",
+    "idhā",
+    "mā",
+    "ib'talāhu",
+    "faqadara",
+    "ʿalayhi",
+    "riz'qahu",
+    "fayaqūlu",
+    "rabbī",
+    "ahānani"
+  ],
+  "17": [
+    "kallā",
+    "bal",
+    "lā",
+    "tuk'rimūna",
+    "l-yatīma"
+  ],
+  "18": [
+    "walā",
+    "taḥāḍḍūna",
+    "ʿalā",
+    "ṭaʿāmi",
+    "l-mis'kīni"
+  ],
+  "19": [
+    "watakulūna",
+    "l-turātha",
+    "aklan",
+    "lamman"
+  ],
+  "20": [
+    "watuḥibbūna",
+    "l-māla",
+    "ḥubban",
+    "jamman"
+  ],
+  "21": [
+    "kallā",
+    "idhā",
+    "dukkati",
+    "l-arḍu",
+    "dakkan",
+    "dakkan"
+  ],
+  "22": [
+    "wajāa",
+    "rabbuka",
+    "wal-malaku",
+    "ṣaffan",
+    "ṣaffan"
+  ],
+  "23": [
+    "wajīa",
+    "yawma-idhin",
+    "bijahannama",
+    "yawma-idhin",
+    "yatadhakkaru",
+    "l-insānu",
+    "wa-annā",
+    "lahu",
+    "l-dhik'rā"
+  ],
+  "24": [
+    "yaqūlu",
+    "yālaytanī",
+    "qaddamtu",
+    "liḥayātī"
+  ],
+  "25": [
+    "fayawma-idhin",
+    "lā",
+    "yuʿadhibu",
+    "ʿadhābahu",
+    "aḥadun"
+  ],
+  "26": [
+    "walā",
+    "yūthiqu",
+    "wathāqahu",
+    "aḥadun"
+  ],
+  "27": [
+    "yāayyatuhā",
+    "l-nafsu",
+    "l-muṭ'ma-inatu"
+  ],
+  "28": [
+    "ir'jiʿī",
+    "ilā",
+    "rabbiki",
+    "rāḍiyatan",
+    "marḍiyyatan"
+  ],
+  "29": [
+    "fa-ud'khulī",
+    "fī",
+    "ʿibādī"
+  ],
+  "30": [
+    "wa-ud'khulī",
+    "jannatī"
+  ]
+}

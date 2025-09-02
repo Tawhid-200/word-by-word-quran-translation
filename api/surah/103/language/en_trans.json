@@ -1,16 +1,22 @@
-[
-  "wal-ʿaṣri",
-  "inna",
-  "l-insāna",
-  "lafī",
-  "khus'rin",
-  "illā",
-  "alladhīna",
-  "āmanū",
-  "waʿamilū",
-  "l-ṣāliḥāti",
-  "watawāṣaw",
-  "bil-ḥaqi",
-  "watawāṣaw",
-  "bil-ṣabri"
-]
+{
+  "1": [
+    "wal-ʿaṣri"
+  ],
+  "2": [
+    "inna",
+    "l-insāna",
+    "lafī",
+    "khus'rin"
+  ],
+  "3": [
+    "illā",
+    "alladhīna",
+    "āmanū",
+    "waʿamilū",
+    "l-ṣāliḥāti",
+    "watawāṣaw",
+    "bil-ḥaqi",
+    "watawāṣaw",
+    "bil-ṣabri"
+  ]
+}

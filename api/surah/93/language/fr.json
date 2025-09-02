@@ -1,42 +1,64 @@
-[
-  "Par le matin",
-  "et la nuit",
-  "quand",
-  "elle devient tranquille !",
-  "Ne",
-  "tʼa (pas) quitté",
-  "ton Maître",
-  "et ne pas",
-  "Il (t’)a détesté.",
-  "Et certainement l’au-delà",
-  "(est) meilleur",
-  "pour toi",
-  "que",
-  "la première (vie).",
-  "Et certainement bientôt",
-  "te donnera",
-  "ton Maître",
-  "et tu seras ensuite satisfait.",
-  "Est-ce que ne pas",
-  "Il t’a trouvé",
-  "orphelin",
-  "et a ensuite donné refuge ?",
-  "Et t’a trouvé",
-  "égaré",
-  "et a ensuite guidé ?",
-  "Et t’a trouvé",
-  "pauvre",
-  "et a ensuite libéré de besoin ?",
-  "Donc, quant à",
-  "l’orphelin,",
-  "alors ne",
-  "(le) maltraite (pas).",
-  "Et quant au",
-  "[le] demandeur,",
-  "alors ne",
-  "(lui) parle (pas) de manière dure.",
-  "Et quant au",
-  "[du] bienfait",
-  "(de) ton Maître,",
-  "alors raconte(-le)."
-]
+{
+  "1": [
+    "Par le matin"
+  ],
+  "2": [
+    "et la nuit",
+    "quand",
+    "elle devient tranquille !"
+  ],
+  "3": [
+    "Ne",
+    "tʼa (pas) quitté",
+    "ton Maître",
+    "et ne pas",
+    "Il (t’)a détesté."
+  ],
+  "4": [
+    "Et certainement l’au-delà",
+    "(est) meilleur",
+    "pour toi",
+    "que",
+    "la première (vie)."
+  ],
+  "5": [
+    "Et certainement bientôt",
+    "te donnera",
+    "ton Maître",
+    "et tu seras ensuite satisfait."
+  ],
+  "6": [
+    "Est-ce que ne pas",
+    "Il t’a trouvé",
+    "orphelin",
+    "et a ensuite donné refuge ?"
+  ],
+  "7": [
+    "Et t’a trouvé",
+    "égaré",
+    "et a ensuite guidé ?"
+  ],
+  "8": [
+    "Et t’a trouvé",
+    "pauvre",
+    "et a ensuite libéré de besoin ?"
+  ],
+  "9": [
+    "Donc, quant à",
+    "l’orphelin,",
+    "alors ne",
+    "(le) maltraite (pas)."
+  ],
+  "10": [
+    "Et quant au",
+    "[le] demandeur,",
+    "alors ne",
+    "(lui) parle (pas) de manière dure."
+  ],
+  "11": [
+    "Et quant au",
+    "[du] bienfait",
+    "(de) ton Maître,",
+    "alors raconte(-le)."
+  ]
+}

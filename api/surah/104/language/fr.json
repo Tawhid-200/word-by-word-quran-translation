@@ -1,35 +1,53 @@
-[
-  "Malheur",
-  "à chaque",
-  "grand diffamateur",
-  "qui critique [beaucoup],",
-  "celui qui",
-  "a assemblé",
-  "de la richesse",
-  "et l’a comptée.",
-  "Il pense",
-  "que",
-  "sa richesse",
-  "le rend éternel.",
-  "Non, pas du tout !",
-  "Il sera très certainement jeté comme un objet sans valeur",
-  "dans",
-  "Al-Ḥouṭamah (=celui qui brise en morceaux).",
-  "Et qu’est-ce qui",
-  "te fera savoir",
-  "ce qu’(est)",
-  "Al-Ḥouṭamah (=celui qui brise en morceaux) ?",
-  "(Le) Feu",
-  "(d’)Allâh",
-  "allumé",
-  "qui",
-  "atteint",
-  "sur",
-  "les cœurs.",
-  "Certes, elle",
-  "(sera) sur eux",
-  "renfermée,",
-  "à",
-  "des piliers",
-  "étendus."
-]
+{
+  "1": [
+    "Malheur",
+    "à chaque",
+    "grand diffamateur",
+    "qui critique [beaucoup],"
+  ],
+  "2": [
+    "celui qui",
+    "a assemblé",
+    "de la richesse",
+    "et l’a comptée."
+  ],
+  "3": [
+    "Il pense",
+    "que",
+    "sa richesse",
+    "le rend éternel."
+  ],
+  "4": [
+    "Non, pas du tout !",
+    "Il sera très certainement jeté comme un objet sans valeur",
+    "dans",
+    "Al-Ḥouṭamah (=celui qui brise en morceaux)."
+  ],
+  "5": [
+    "Et qu’est-ce qui",
+    "te fera savoir",
+    "ce qu’(est)",
+    "Al-Ḥouṭamah (=celui qui brise en morceaux) ?"
+  ],
+  "6": [
+    "(Le) Feu",
+    "(d’)Allâh",
+    "allumé"
+  ],
+  "7": [
+    "qui",
+    "atteint",
+    "sur",
+    "les cœurs."
+  ],
+  "8": [
+    "Certes, elle",
+    "(sera) sur eux",
+    "renfermée,"
+  ],
+  "9": [
+    "à",
+    "des piliers",
+    "étendus."
+  ]
+}

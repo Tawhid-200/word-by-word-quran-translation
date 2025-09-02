@@ -1,12 +1,18 @@
-[
-  "innā",
-  "aʿṭaynāka",
-  "l-kawthara",
-  "faṣalli",
-  "lirabbika",
-  "wa-in'ḥar",
-  "inna",
-  "shāni-aka",
-  "huwa",
-  "l-abtaru"
-]
+{
+  "1": [
+    "innā",
+    "aʿṭaynāka",
+    "l-kawthara"
+  ],
+  "2": [
+    "faṣalli",
+    "lirabbika",
+    "wa-in'ḥar"
+  ],
+  "3": [
+    "inna",
+    "shāni-aka",
+    "huwa",
+    "l-abtaru"
+  ]
+}

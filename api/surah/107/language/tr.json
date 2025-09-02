@@ -1,27 +1,41 @@
-[
-  "gördün mü?",
-  "kimseyi",
-  "yalanlayan",
-  "dini",
-  "işte o",
-  "iter kakar",
-  "*",
-  "öksüzü",
-  "ve",
-  "teşvik etmez",
-  "doyurmaya",
-  "*",
-  "yoksulu",
-  "vay haline",
-  "namaz kılanların",
-  "ki",
-  "onlar",
-  "namazlarından",
-  "*",
-  "gaflet ederler",
-  "ki",
-  "onlar",
-  "gösteriş yaparlar",
-  "ve esirgerler",
-  "en ufak bir yardımı"
-]
+{
+  "1": [
+    "gördün mü?",
+    "kimseyi",
+    "yalanlayan",
+    "dini"
+  ],
+  "2": [
+    "işte o",
+    "iter kakar",
+    "*",
+    "öksüzü"
+  ],
+  "3": [
+    "ve",
+    "teşvik etmez",
+    "doyurmaya",
+    "*",
+    "yoksulu"
+  ],
+  "4": [
+    "vay haline",
+    "namaz kılanların"
+  ],
+  "5": [
+    "ki",
+    "onlar",
+    "namazlarından",
+    "*",
+    "gaflet ederler"
+  ],
+  "6": [
+    "ki",
+    "onlar",
+    "gösteriş yaparlar"
+  ],
+  "7": [
+    "ve esirgerler",
+    "en ufak bir yardımı"
+  ]
+}

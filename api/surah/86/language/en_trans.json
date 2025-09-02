@@ -1,63 +1,97 @@
-[
-  "wal-samāi",
-  "wal-ṭāriqi",
-  "wamā",
-  "adrāka",
-  "mā",
-  "l-ṭāriqu",
-  "al-najmu",
-  "l-thāqibu",
-  "in",
-  "kullu",
-  "nafsin",
-  "lammā",
-  "ʿalayhā",
-  "ḥāfiẓun",
-  "falyanẓuri",
-  "l-insānu",
-  "mimma",
-  "khuliqa",
-  "khuliqa",
-  "min",
-  "māin",
-  "dāfiqin",
-  "yakhruju",
-  "min",
-  "bayni",
-  "l-ṣul'bi",
-  "wal-tarāibi",
-  "innahu",
-  "ʿalā",
-  "rajʿihi",
-  "laqādirun",
-  "yawma",
-  "tub'lā",
-  "l-sarāiru",
-  "famā",
-  "lahu",
-  "min",
-  "quwwatin",
-  "walā",
-  "nāṣirin",
-  "wal-samāi",
-  "dhāti",
-  "l-rajʿi",
-  "wal-arḍi",
-  "dhāti",
-  "l-ṣadʿi",
-  "innahu",
-  "laqawlun",
-  "faṣlun",
-  "wamā",
-  "huwa",
-  "bil-hazli",
-  "innahum",
-  "yakīdūna",
-  "kaydan",
-  "wa-akīdu",
-  "kaydan",
-  "famahhili",
-  "l-kāfirīna",
-  "amhil'hum",
-  "ruwaydan"
-]
+{
+  "1": [
+    "wal-samāi",
+    "wal-ṭāriqi"
+  ],
+  "2": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "l-ṭāriqu"
+  ],
+  "3": [
+    "al-najmu",
+    "l-thāqibu"
+  ],
+  "4": [
+    "in",
+    "kullu",
+    "nafsin",
+    "lammā",
+    "ʿalayhā",
+    "ḥāfiẓun"
+  ],
+  "5": [
+    "falyanẓuri",
+    "l-insānu",
+    "mimma",
+    "khuliqa"
+  ],
+  "6": [
+    "khuliqa",
+    "min",
+    "māin",
+    "dāfiqin"
+  ],
+  "7": [
+    "yakhruju",
+    "min",
+    "bayni",
+    "l-ṣul'bi",
+    "wal-tarāibi"
+  ],
+  "8": [
+    "innahu",
+    "ʿalā",
+    "rajʿihi",
+    "laqādirun"
+  ],
+  "9": [
+    "yawma",
+    "tub'lā",
+    "l-sarāiru"
+  ],
+  "10": [
+    "famā",
+    "lahu",
+    "min",
+    "quwwatin",
+    "walā",
+    "nāṣirin"
+  ],
+  "11": [
+    "wal-samāi",
+    "dhāti",
+    "l-rajʿi"
+  ],
+  "12": [
+    "wal-arḍi",
+    "dhāti",
+    "l-ṣadʿi"
+  ],
+  "13": [
+    "innahu",
+    "laqawlun",
+    "faṣlun"
+  ],
+  "14": [
+    "wamā",
+    "huwa",
+    "bil-hazli"
+  ],
+  "15": [
+    "innahum",
+    "yakīdūna",
+    "kaydan"
+  ],
+  "16": [
+    "wa-akīdu",
+    "kaydan"
+  ],
+  "17": [
+    "famahhili",
+    "l-kāfirīna",
+    "amhil'hum",
+    "ruwaydan"
+  ]
+}

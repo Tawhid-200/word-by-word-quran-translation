@@ -1,38 +1,60 @@
-[
-  "al-qāriʿatu",
-  "mā",
-  "l-qāriʿatu",
-  "wamā",
-  "adrāka",
-  "mā",
-  "l-qāriʿatu",
-  "yawma",
-  "yakūnu",
-  "l-nāsu",
-  "kal-farāshi",
-  "l-mabthūthi",
-  "watakūnu",
-  "l-jibālu",
-  "kal-ʿih'ni",
-  "l-manfūshi",
-  "fa-ammā",
-  "man",
-  "thaqulat",
-  "mawāzīnuhu",
-  "fahuwa",
-  "fī",
-  "ʿīshatin",
-  "rāḍiyatin",
-  "wa-ammā",
-  "man",
-  "khaffat",
-  "mawāzīnuhu",
-  "fa-ummuhu",
-  "hāwiyatun",
-  "wamā",
-  "adrāka",
-  "mā",
-  "hiyah",
-  "nārun",
-  "ḥāmiyatun"
-]
+{
+  "1": [
+    "al-qāriʿatu"
+  ],
+  "2": [
+    "mā",
+    "l-qāriʿatu"
+  ],
+  "3": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "l-qāriʿatu"
+  ],
+  "4": [
+    "yawma",
+    "yakūnu",
+    "l-nāsu",
+    "kal-farāshi",
+    "l-mabthūthi"
+  ],
+  "5": [
+    "watakūnu",
+    "l-jibālu",
+    "kal-ʿih'ni",
+    "l-manfūshi"
+  ],
+  "6": [
+    "fa-ammā",
+    "man",
+    "thaqulat",
+    "mawāzīnuhu"
+  ],
+  "7": [
+    "fahuwa",
+    "fī",
+    "ʿīshatin",
+    "rāḍiyatin"
+  ],
+  "8": [
+    "wa-ammā",
+    "man",
+    "khaffat",
+    "mawāzīnuhu"
+  ],
+  "9": [
+    "fa-ummuhu",
+    "hāwiyatun"
+  ],
+  "10": [
+    "wamā",
+    "adrāka",
+    "mā",
+    "hiyah"
+  ],
+  "11": [
+    "nārun",
+    "ḥāmiyatun"
+  ]
+}

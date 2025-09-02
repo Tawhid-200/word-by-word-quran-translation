@@ -1,42 +1,64 @@
-[
-  "wal-ʿādiyāti",
-  "ḍabḥan",
-  "fal-mūriyāti",
-  "qadḥan",
-  "fal-mughīrāti",
-  "ṣub'ḥan",
-  "fa-atharna",
-  "bihi",
-  "naqʿan",
-  "fawasaṭna",
-  "bihi",
-  "jamʿan",
-  "inna",
-  "l-insāna",
-  "lirabbihi",
-  "lakanūdun",
-  "wa-innahu",
-  "ʿalā",
-  "dhālika",
-  "lashahīdun",
-  "wa-innahu",
-  "liḥubbi",
-  "l-khayri",
-  "lashadīdun",
-  "afalā",
-  "yaʿlamu",
-  "idhā",
-  "buʿ'thira",
-  "mā",
-  "fī",
-  "l-qubūri",
-  "waḥuṣṣila",
-  "mā",
-  "fī",
-  "l-ṣudūri",
-  "inna",
-  "rabbahum",
-  "bihim",
-  "yawma-idhin",
-  "lakhabīrun"
-]
+{
+  "1": [
+    "wal-ʿādiyāti",
+    "ḍabḥan"
+  ],
+  "2": [
+    "fal-mūriyāti",
+    "qadḥan"
+  ],
+  "3": [
+    "fal-mughīrāti",
+    "ṣub'ḥan"
+  ],
+  "4": [
+    "fa-atharna",
+    "bihi",
+    "naqʿan"
+  ],
+  "5": [
+    "fawasaṭna",
+    "bihi",
+    "jamʿan"
+  ],
+  "6": [
+    "inna",
+    "l-insāna",
+    "lirabbihi",
+    "lakanūdun"
+  ],
+  "7": [
+    "wa-innahu",
+    "ʿalā",
+    "dhālika",
+    "lashahīdun"
+  ],
+  "8": [
+    "wa-innahu",
+    "liḥubbi",
+    "l-khayri",
+    "lashadīdun"
+  ],
+  "9": [
+    "afalā",
+    "yaʿlamu",
+    "idhā",
+    "buʿ'thira",
+    "mā",
+    "fī",
+    "l-qubūri"
+  ],
+  "10": [
+    "waḥuṣṣila",
+    "mā",
+    "fī",
+    "l-ṣudūri"
+  ],
+  "11": [
+    "inna",
+    "rabbahum",
+    "bihim",
+    "yawma-idhin",
+    "lakhabīrun"
+  ]
+}

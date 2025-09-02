@@ -1,17 +1,25 @@
-[
-  "qul",
-  "huwa",
-  "l-lahu",
-  "aḥadun",
-  "al-lahu",
-  "l-ṣamadu",
-  "lam",
-  "yalid",
-  "walam",
-  "yūlad",
-  "walam",
-  "yakun",
-  "lahu",
-  "kufuwan",
-  "aḥadun"
-]
+{
+  "1": [
+    "qul",
+    "huwa",
+    "l-lahu",
+    "aḥadun"
+  ],
+  "2": [
+    "al-lahu",
+    "l-ṣamadu"
+  ],
+  "3": [
+    "lam",
+    "yalid",
+    "walam",
+    "yūlad"
+  ],
+  "4": [
+    "walam",
+    "yakun",
+    "lahu",
+    "kufuwan",
+    "aḥadun"
+  ]
+}

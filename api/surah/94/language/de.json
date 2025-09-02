@@ -1,29 +1,45 @@
-[
-  "Haben nicht",
-  "Wir aufgetan",
-  "dir",
-  "deine Brust",
-  "und Wir haben abgenommen",
-  "(von) dir",
-  "deine Last",
-  "die",
-  "niederdrückte",
-  "deinen Rücken",
-  "und Wir haben erhöht",
-  "dir",
-  "dein Ansehen",
-  "Also gewiss",
-  "mit",
-  "der Erschwernis",
-  "(ist) Erleichterung",
-  "gewiss",
-  "mit",
-  "der Erschwernis",
-  "(ist) Erleichterung",
-  "Also, wenn",
-  "du fertig bist",
-  "dann strenge dich an",
-  "und nach",
-  "deinem Herrn",
-  "richte dein Begehren aus"
-]
+{
+  "1": [
+    "Haben nicht",
+    "Wir aufgetan",
+    "dir",
+    "deine Brust"
+  ],
+  "2": [
+    "und Wir haben abgenommen",
+    "(von) dir",
+    "deine Last"
+  ],
+  "3": [
+    "die",
+    "niederdrückte",
+    "deinen Rücken"
+  ],
+  "4": [
+    "und Wir haben erhöht",
+    "dir",
+    "dein Ansehen"
+  ],
+  "5": [
+    "Also gewiss",
+    "mit",
+    "der Erschwernis",
+    "(ist) Erleichterung"
+  ],
+  "6": [
+    "gewiss",
+    "mit",
+    "der Erschwernis",
+    "(ist) Erleichterung"
+  ],
+  "7": [
+    "Also, wenn",
+    "du fertig bist",
+    "dann strenge dich an"
+  ],
+  "8": [
+    "und nach",
+    "deinem Herrn",
+    "richte dein Begehren aus"
+  ]
+}

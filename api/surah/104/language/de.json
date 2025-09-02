@@ -1,35 +1,53 @@
-[
-  "Wehe",
-  "jedem",
-  "Stichler",
-  "(und) Nörgler",
-  "der",
-  "zusammenträgt",
-  "Besitz",
-  "und ihn zählt und immer wieder zählt",
-  "(wobei) er meint",
-  "dass",
-  "sein Besitz",
-  "ihn ewig leben ließe",
-  "Keineswegs!",
-  "Er wird ganz gewiss geworfen",
-  "in",
-  "die Zermalmende",
-  "Und was",
-  "lässt dich wissen",
-  "was",
-  "die Zermalmende (ist)",
-  "Feuer",
-  "(Sie ist) Allahs",
-  "entfachtes",
-  "das",
-  "Einblick gewinnt",
-  "in",
-  "die Herzen",
-  "Gewiss, es",
-  "(wird) sie",
-  "einschließen",
-  "in",
-  "Säulen",
-  "langgestreckten"
-]
+{
+  "1": [
+    "Wehe",
+    "jedem",
+    "Stichler",
+    "(und) Nörgler"
+  ],
+  "2": [
+    "der",
+    "zusammenträgt",
+    "Besitz",
+    "und ihn zählt und immer wieder zählt"
+  ],
+  "3": [
+    "(wobei) er meint",
+    "dass",
+    "sein Besitz",
+    "ihn ewig leben ließe"
+  ],
+  "4": [
+    "Keineswegs!",
+    "Er wird ganz gewiss geworfen",
+    "in",
+    "die Zermalmende"
+  ],
+  "5": [
+    "Und was",
+    "lässt dich wissen",
+    "was",
+    "die Zermalmende (ist)"
+  ],
+  "6": [
+    "Feuer",
+    "(Sie ist) Allahs",
+    "entfachtes"
+  ],
+  "7": [
+    "das",
+    "Einblick gewinnt",
+    "in",
+    "die Herzen"
+  ],
+  "8": [
+    "Gewiss, es",
+    "(wird) sie",
+    "einschließen"
+  ],
+  "9": [
+    "in",
+    "Säulen",
+    "langgestreckten"
+  ]
+}

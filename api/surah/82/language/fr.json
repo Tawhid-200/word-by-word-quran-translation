@@ -1,82 +1,120 @@
-[
-  "Quand",
-  "le ciel",
-  "sera déchiré",
-  "et quand",
-  "les grands astres",
-  "seront dispersés",
-  "et quand",
-  "les mers",
-  "seront mises à jaillir",
-  "et quand",
-  "les tombes",
-  "seront retournées,",
-  "saura",
-  "une âme",
-  "ce qu’",
-  "elle a mis en avant",
-  "et (ce qu’)elle a remis à plus tard.",
-  "Ô",
-  "[l’]humain !",
-  "Qu’est-ce qui",
-  "t’a trompé",
-  "au sujet de ton Maître,",
-  "L’Honorable ?",
-  "Celui qui",
-  "t’a créé",
-  "et t’a ensuite formé de manière uniforme",
-  "et t’a ensuite équilibré.",
-  "Dans",
-  "n’importe quelle",
-  "forme",
-  "qu’",
-  "Il veut",
-  "Il t’a assemblé.",
-  "Non, pas du tout !",
-  "Plutôt,",
-  "vous démentez",
-  "[en] Le Jugement avec Rétribution",
-  "alors que certes",
-  "(il y a) sur vous",
-  "certainement des gardiens",
-  "honorables,",
-  "écrivains,",
-  "(qui) savent",
-  "ce que",
-  "vous faites.",
-  "Certes,",
-  "les gens de bien (seront)",
-  "certainement dans",
-  "du délice.",
-  "Et certes,",
-  "les très immoraux (seront)",
-  "certainement dans",
-  "un Feu Ardent",
-  "(qui) ils seront brûlés (en) lui",
-  "(au) Jour",
-  "(du) Jugement avec Rétribution.",
-  "Et ne pas",
-  "ils (seront)",
-  "de lui",
-  "du tout absents.",
-  "Et qu’est-ce qui",
-  "te fera savoir",
-  "ce qu’(est)",
-  "(Le) Jour",
-  "(du) Jugement avec Rétribution ?",
-  "Puis",
-  "qu’est-ce qui",
-  "te fera savoir",
-  "ce qu’(est)",
-  "(Le) Jour",
-  "(du) Jugement avec Rétribution ?",
-  "(Le) Jour (où)",
-  "ne",
-  "possédera (pas)",
-  "(d’)âme",
-  "pour une âme",
-  "quoi que ce soit,",
-  "dans l’état où le commandement",
-  "ce jour-là",
-  "(appartient) à Allâh."
-]
+{
+  "1": [
+    "Quand",
+    "le ciel",
+    "sera déchiré"
+  ],
+  "2": [
+    "et quand",
+    "les grands astres",
+    "seront dispersés"
+  ],
+  "3": [
+    "et quand",
+    "les mers",
+    "seront mises à jaillir"
+  ],
+  "4": [
+    "et quand",
+    "les tombes",
+    "seront retournées,"
+  ],
+  "5": [
+    "saura",
+    "une âme",
+    "ce qu’",
+    "elle a mis en avant",
+    "et (ce qu’)elle a remis à plus tard."
+  ],
+  "6": [
+    "Ô",
+    "[l’]humain !",
+    "Qu’est-ce qui",
+    "t’a trompé",
+    "au sujet de ton Maître,",
+    "L’Honorable ?"
+  ],
+  "7": [
+    "Celui qui",
+    "t’a créé",
+    "et t’a ensuite formé de manière uniforme",
+    "et t’a ensuite équilibré."
+  ],
+  "8": [
+    "Dans",
+    "n’importe quelle",
+    "forme",
+    "qu’",
+    "Il veut",
+    "Il t’a assemblé."
+  ],
+  "9": [
+    "Non, pas du tout !",
+    "Plutôt,",
+    "vous démentez",
+    "[en] Le Jugement avec Rétribution"
+  ],
+  "10": [
+    "alors que certes",
+    "(il y a) sur vous",
+    "certainement des gardiens"
+  ],
+  "11": [
+    "honorables,",
+    "écrivains,"
+  ],
+  "12": [
+    "(qui) savent",
+    "ce que",
+    "vous faites."
+  ],
+  "13": [
+    "Certes,",
+    "les gens de bien (seront)",
+    "certainement dans",
+    "du délice."
+  ],
+  "14": [
+    "Et certes,",
+    "les très immoraux (seront)",
+    "certainement dans",
+    "un Feu Ardent"
+  ],
+  "15": [
+    "(qui) ils seront brûlés (en) lui",
+    "(au) Jour",
+    "(du) Jugement avec Rétribution."
+  ],
+  "16": [
+    "Et ne pas",
+    "ils (seront)",
+    "de lui",
+    "du tout absents."
+  ],
+  "17": [
+    "Et qu’est-ce qui",
+    "te fera savoir",
+    "ce qu’(est)",
+    "(Le) Jour",
+    "(du) Jugement avec Rétribution ?"
+  ],
+  "18": [
+    "Puis",
+    "qu’est-ce qui",
+    "te fera savoir",
+    "ce qu’(est)",
+    "(Le) Jour",
+    "(du) Jugement avec Rétribution ?"
+  ],
+  "19": [
+    "(Le) Jour (où)",
+    "ne",
+    "possédera (pas)",
+    "(d’)âme",
+    "pour une âme",
+    "quoi que ce soit,",
+    "dans l’état où le commandement",
+    "ce jour-là",
+    "(appartient) à Allâh."
+  ]
+}

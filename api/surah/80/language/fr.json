@@ -1,135 +1,219 @@
-[
-  "Il a froncé (les sourcils)",
-  "et s’est détourné",
-  "(parce) qu’",
-  "est arrivé (chez) lui",
-  "l’aveugle.",
-  "Et qu’est-ce qui",
-  "te fera savoir",
-  "que peut-être il",
-  "se purifie",
-  "ou",
-  "se rappelle",
-  "et lui profite donc",
-  "le rappel ?",
-  "Quant à",
-  "quiconque",
-  "se voit libre de besoins,",
-  "alors tu",
-  "à lui",
-  "donnes de l’attention.",
-  "Et qu’est-ce qu’(il y a)",
-  "à toi",
-  "que ne pas",
-  "il se purifie ?",
-  "Et quant à",
-  "celui qui",
-  "arrive (chez) toi",
-  "(dans l’état où) il met de l’effort",
-  "pendant qu’il",
-  "craint,",
-  "alors tu",
-  "de lui",
-  "es distrait.",
-  "Non, pas du tout !",
-  "Certes, il (est)",
-  "un Rappel -",
-  "Quiconque donc",
-  "veut",
-  "peut se rappeler (de) lui -",
-  "dans",
-  "des pages",
-  "honorées,",
-  "élevées,",
-  "purifiées,",
-  "dans (les) mains",
-  "(d’)ambassadeurs",
-  "honorables,",
-  "bons.",
-  "Que soit détruit",
-  "l’humain,",
-  "qu’est-ce qu’",
-  "il (est) mécréant !",
-  "De",
-  "quelle",
-  "chose",
-  "l’a-t-Il créé ?",
-  "D’",
-  "une goutte de sperme",
-  "Il l’a créé",
-  "et a ensuite déterminé (pour) lui.",
-  "Puis",
-  "la voie",
-  "Il (l’)a rendue facile (pour) lui.",
-  "Puis",
-  "Il l’a fait mourir",
-  "et a ensuite désigné (pour) lui une tombe.",
-  "Puis",
-  "quand",
-  "Il veut,",
-  "Il le ressuscitera.",
-  "Non, pas du tout !",
-  "Pas encore",
-  "il a accomplit",
-  "ce qu’",
-  "Il lui a ordonné.",
-  "Que regarde donc",
-  "l’humain",
-  "vers",
-  "sa nourriture :",
-  "que Nous",
-  "avons versé",
-  "l’eau",
-  "(avec) versage",
-  "puis",
-  "avons fendu",
-  "la terre",
-  "(avec) fendage",
-  "et avons ensuite fait pousser",
-  "en elle",
-  "graines",
-  "et vigne",
-  "et herbage",
-  "et olivier",
-  "et dattier",
-  "et des jardins entourés de murs",
-  "aux plantes abondantes",
-  "et fruits",
-  "et herbe,",
-  "(en tant que) bien",
-  "pour vous",
-  "et pour votre bétail.",
-  "Et ensuite, quand",
-  "arrive",
-  "Celle qui assourdit,",
-  "(Le) Jour (où)",
-  "fuira",
-  "l’homme",
-  "de",
-  "son frère",
-  "et (de) sa mère",
-  "et (de) son père",
-  "et (de) sa compagne",
-  "et (de) ses enfants.",
-  "(Il y aura) à chaque",
-  "homme",
-  "parmi eux",
-  "ce jour-là",
-  "une situation",
-  "(qui) lui suffira.",
-  "Des visages",
-  "ce jour-là",
-  "(seront) illuminants,",
-  "riant,",
-  "heureux à cause de bonnes nouvelles.",
-  "Et des visages",
-  "ce jour-là",
-  "(il y aura) sur eux",
-  "de la poussière,",
-  "les couvrira",
-  "de l’obscurité.",
-  "Ceux-là (sont)",
-  "eux",
-  "les mécréants,",
-  "les gens très immoraux."
-]
+{
+  "1": [
+    "Il a froncé (les sourcils)",
+    "et s’est détourné"
+  ],
+  "2": [
+    "(parce) qu’",
+    "est arrivé (chez) lui",
+    "l’aveugle."
+  ],
+  "3": [
+    "Et qu’est-ce qui",
+    "te fera savoir",
+    "que peut-être il",
+    "se purifie"
+  ],
+  "4": [
+    "ou",
+    "se rappelle",
+    "et lui profite donc",
+    "le rappel ?"
+  ],
+  "5": [
+    "Quant à",
+    "quiconque",
+    "se voit libre de besoins,"
+  ],
+  "6": [
+    "alors tu",
+    "à lui",
+    "donnes de l’attention."
+  ],
+  "7": [
+    "Et qu’est-ce qu’(il y a)",
+    "à toi",
+    "que ne pas",
+    "il se purifie ?"
+  ],
+  "8": [
+    "Et quant à",
+    "celui qui",
+    "arrive (chez) toi",
+    "(dans l’état où) il met de l’effort"
+  ],
+  "9": [
+    "pendant qu’il",
+    "craint,"
+  ],
+  "10": [
+    "alors tu",
+    "de lui",
+    "es distrait."
+  ],
+  "11": [
+    "Non, pas du tout !",
+    "Certes, il (est)",
+    "un Rappel -"
+  ],
+  "12": [
+    "Quiconque donc",
+    "veut",
+    "peut se rappeler (de) lui -"
+  ],
+  "13": [
+    "dans",
+    "des pages",
+    "honorées,"
+  ],
+  "14": [
+    "élevées,",
+    "purifiées,"
+  ],
+  "15": [
+    "dans (les) mains",
+    "(d’)ambassadeurs"
+  ],
+  "16": [
+    "honorables,",
+    "bons."
+  ],
+  "17": [
+    "Que soit détruit",
+    "l’humain,",
+    "qu’est-ce qu’",
+    "il (est) mécréant !"
+  ],
+  "18": [
+    "De",
+    "quelle",
+    "chose",
+    "l’a-t-Il créé ?"
+  ],
+  "19": [
+    "D’",
+    "une goutte de sperme",
+    "Il l’a créé",
+    "et a ensuite déterminé (pour) lui."
+  ],
+  "20": [
+    "Puis",
+    "la voie",
+    "Il (l’)a rendue facile (pour) lui."
+  ],
+  "21": [
+    "Puis",
+    "Il l’a fait mourir",
+    "et a ensuite désigné (pour) lui une tombe."
+  ],
+  "22": [
+    "Puis",
+    "quand",
+    "Il veut,",
+    "Il le ressuscitera."
+  ],
+  "23": [
+    "Non, pas du tout !",
+    "Pas encore",
+    "il a accomplit",
+    "ce qu’",
+    "Il lui a ordonné."
+  ],
+  "24": [
+    "Que regarde donc",
+    "l’humain",
+    "vers",
+    "sa nourriture :"
+  ],
+  "25": [
+    "que Nous",
+    "avons versé",
+    "l’eau",
+    "(avec) versage"
+  ],
+  "26": [
+    "puis",
+    "avons fendu",
+    "la terre",
+    "(avec) fendage"
+  ],
+  "27": [
+    "et avons ensuite fait pousser",
+    "en elle",
+    "graines"
+  ],
+  "28": [
+    "et vigne",
+    "et herbage"
+  ],
+  "29": [
+    "et olivier",
+    "et dattier"
+  ],
+  "30": [
+    "et des jardins entourés de murs",
+    "aux plantes abondantes"
+  ],
+  "31": [
+    "et fruits",
+    "et herbe,"
+  ],
+  "32": [
+    "(en tant que) bien",
+    "pour vous",
+    "et pour votre bétail."
+  ],
+  "33": [
+    "Et ensuite, quand",
+    "arrive",
+    "Celle qui assourdit,"
+  ],
+  "34": [
+    "(Le) Jour (où)",
+    "fuira",
+    "l’homme",
+    "de",
+    "son frère"
+  ],
+  "35": [
+    "et (de) sa mère",
+    "et (de) son père"
+  ],
+  "36": [
+    "et (de) sa compagne",
+    "et (de) ses enfants."
+  ],
+  "37": [
+    "(Il y aura) à chaque",
+    "homme",
+    "parmi eux",
+    "ce jour-là",
+    "une situation",
+    "(qui) lui suffira."
+  ],
+  "38": [
+    "Des visages",
+    "ce jour-là",
+    "(seront) illuminants,"
+  ],
+  "39": [
+    "riant,",
+    "heureux à cause de bonnes nouvelles."
+  ],
+  "40": [
+    "Et des visages",
+    "ce jour-là",
+    "(il y aura) sur eux",
+    "de la poussière,"
+  ],
+  "41": [
+    "les couvrira",
+    "de l’obscurité."
+  ],
+  "42": [
+    "Ceux-là (sont)",
+    "eux",
+    "les mécréants,",
+    "les gens très immoraux."
+  ]
+}
